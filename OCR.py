@@ -41,7 +41,8 @@ for arqpdf in pdfsList:
         recognized_text = []
         for imgBlobs in imageBlobs:
             im = Image.open(io.BytesIO(imgBlobs))
-            text = pytesseract.image_to_string(im, lang='por')
+            #text = pytesseract.image_to_string(im, lang='por')
+            text = pytesseract.image_to_string(im)
             recognized_text.append(text)
 
         f = open(end_filesptxt + '/' + filenametxt,'w')

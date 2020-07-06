@@ -13,59 +13,59 @@ First-order groups and their contributions along with sample assignments
 
  
 
-Group Example Tmi Tori Tai Pai Veni Gni Hj Hi Husti
-1 CH; n-Tetracontane (2) 0.6953 0.8491 1.7506 0.018615 68.35 2.878 —42.479 0.217 1.660
+Group Example Timi Toi Tei Pai Vet Goi Any; Ai Arusti
+1 CH3 n-Tetracontane (2) 0.6953 0.8491 1.7506 0.018615 68.35 2.878 —42.479 0.217 1.660
 2 CH, n-Tetracontane (38) 0.2515 0.7141 1.3327 0.013547 56.28 8.064 —20.829 4.910 2.639
-3 cH 2-Melhylpentane (1) —0.3730 0.2925 0.5960 0.007259 37.50 8.254 —7.122 7.962 0.134
-4 € 2,2-Dimethylbutanc (1) 0.0256 —0.0671 0.0306 0.001219 16.01 16.413 8.928 10.730 maluddd
-E CH,=CH 1-Hexene (1) 1.1728 .5596 3.2295 0.025745 111.43 95.738 57.509 4.031 1.268
-6 CH=CH 2-Hexene (1) 0.9460 .5597 3.0741 0.023003 98.43 92.656 69.664 9.456 4.441
-7 CH,=C 2-Methyl-1-butene (1) 0.7662 .3621 27717 0.021137 91.40 85.107 61.625 8.602 2.451
-8 CH=C 2-Methyl-2-butene (1) 0.1732 2571 2.5666 0.019609 83.89 88.691 81.835 14.095 3.032
-9 C=C 2,3-Dimethyl-2-butene (1) 0.3928 .2739 2.6391 0.014114 90.66 93.119 95.710 19.910 2.616
-10 Ce C=ca 1,2-Buladicne (1) 1.7036 2.6840 5.4330 0.035483 143.57 229.906 198.840 11.310 7.076
-11 CHo=C=€ 3-Methyl-1,2-butadiene (1) 1.5453 2.4014 4.8219 0.029678 146.36 226.710 208.490 Fa 7.435
-12 CH=C=CH 2,3-Pentadiene (1) 1.2850 2.5400 test tinto trio tried ted tri 6.000
-13 CH=€C 1-Pentyne (1) 2.2276 7618 3.7897 0.014010 84.60 230.029 224.902 6.144 —1.548
-14 C=€ 3-Decyne (1) 2.0516 .6767 4.5870 0.010888 74.66 216.013 228.282 12.540 6.128
+3 CH 2-Methylpentane (1) —0.3730 0.2925 0.5960 0.007259 37.50 8.254 —7.122 7.962 0.134
+4 Cc 2,2-Dimethylbutane (1) 0.0256 —0.0671 0.0306 0.001219 16.01 16.413 8.928 10.730 odv2 32.
+5 CH)=CH 1-Hexene (1) 1.1728 5596 3.2295 0.025745 111.43 95.738 57.509 4.031 1.268
+6 CH=CH 2-Hexene (1) 0.9460 5597 3.0741 0.023003 98.43 92.656 69.664 9.456 4.441
+7 CH2=C 2-Mcethyl-1-butene (1) 0.7662 3621 2.7717 0.021137 91.40 85.107 61.625 8.602 2.451
+8 CH=C 2-Methyl-2-butene (1) 0.1732 2971. 2.5666 0.019609 83.89 88.691 81.835 14.095 3.032
+9 C=C 2,3-Dimethyl-2-butene (1) 0.3928 2739 2.6391 0.014114 90.66 93.119 95.710 19,910 2.616
+10 Clb =C=CH 1,2-Buladiene (1) 1.7036 2.6840 5.4330 0.035483 143.57 229.906 198.840 11.310 7.076
+11 CHy=C=C 3-Methyl-1,2-butadiene (1) 1.5453 2.4014 4.8219 0.029678 146.36 226.710 208.490 oe 7.435
+12 CH=C=CH 2,3-Pentadiene (1) 1.2850 2.5400 eee eee wees eee wee we 6.000
+13 CH=C 1-Pentyne (1) 2.2276 -7618 3.7897 0.014010 84.60 230.029 224.902 6.144 —1.548
+14 c=C 3-Decyne (1) 2.0516 6767 4.5870 0.010888 74.66 216.013 228.282 12.540 6.128
 15 aCH Benzene (6) 0.5860 0.8365 2.0337 0.007260 42.39 26.732 12.861 3.683 1.948
-16 aC [used with Naphihalene (2) 1.8955 “7324 5.4979 0.003564 35.71 20.379 20.187 6.631 0.845
+16 aC fused with Naphthalene (2) 1.8955 -7324 5.4979 0.003564 35.71 20.379 20.187 6.631 0.845
 
 aromatic ring
-17 aC fused with non- Indane (2) 1.2065 .1995 3.1058 0.006512 34.65 33.912 30.768 6.152 1.095
+17 aC fused with non- Indane (2) 1.2065 1995 3.1058 0.006512 34.65 33.912 30.768 6.152 1.095
 
 aromatic subring
-18 aC except as above Benzophenone (1) 0.9176 .5468 4,5344 0.012859 26.47 23.331 24.701 6.824 —(0,531
-19 aN in aromatic ring Pyridine (1) 2.0438 3977 4.0954  —0.003339 36.47 89.902 70.862 9.420 2555
-20 aC-CHa Tolucne (1) 1.0068 .5653 3.4611 0.020907 97.33 24.919 —19.258 8.279 2.969
-21 aC-CH, Ethylbenzene (1) 0.1065 4925 2.9003 0.018082 87.19 31.663 4.380 11,981 0.948
-2 a€-CH Cumene (1) —0,5197 0.8665 1.9512 0.011795 73.51 30.393 18.440 13.519 —1.037
-23 aC-C tert-Butylbenzene (1) —().1041 (0.5229 0.8576 0.011298 67.20 40.127 B5OT l6mil —2.856
-24 aC-CH=CH, Styrene (1) 1.2832 2.4308 5.7861 0.030637 134.69 14.531 77.863 aaa 4.013
-2 aC-CH=CH 1-Propenylbenzene (1) 1.7744 2.9262 6.5062 0.026282 128.84 11.216 88.084 Heat 8.274
-26 aC-C=CH, o-Methylstyrene (1) 1.2612 2.1472 4.9967 0.026371 110.74 15.728 90.927 rea 3.324
-21 aC-C=CH Phenylacetylene (1) 1.7495 2.3057 6.4572 0.019507 112.08 263.205 257.448 ent 2.514
-28 aC-C=€C 1-Phenyl-1-propyne (1) trt 2.7341 ted dd tt tt dd ed tee
-29 OH 1,4-Butanediol (2) 2.7888 2.5670 5.2188 — —0.005401 30.61 —144.051 —178.360 24.214 4.786
-30 aC-0H Phenol (1) 5.1473 3.3205 9.3472  —0.008788 50.77 —131.327 — 164.191 34.099 8.427
-31 CooH 1,5-Pentanedioic acid (2) 7.4042 5.1108 14.6038 0.009885 90.66 —337.090 =389,981 17.002 10.692
-Ro aC-COOH Benzoic acid (1) 12.4296 6.0677 15.4515 0.017100 119.10 —312.422 —361.249 ta 14.649
-aa CHsCO 2-Butanone (1) 2.9588 3.1178 7.0058 0.025227 127.99 — 120.667 — 180.604 15.195 8.062
-34 CH>CO 3-Pentanone (1) 2.5232 2.6761 sas 0.019619 112.79 — 120.425 — 163.090 19.392 8.826
-35 CHCO 2,4-Dimethyl-3-pentanone (1) 1.1565 2.1748 4.4743 0.012487 97.16 —116.799 — 139.909 20.350 7.205
-36 Cco 2,2,4,4-Tetramethyl-3-pentanone (1) 1.0638 1.7287 ed Peptt e een ee eta hi
-87 ac-co Acetophenone (1) 2.9157 3.4650 9.4806 0.011007 90.69 —91.812 — 106.965 25.036 4.852
-38 cHO 1-Hexanal (1) 3.0186 2.5388 5.8013 0.010204 71.08 — 100.882 —130.816 12.370 11.325
-39 aC-CHO Benzaldehyde (1) 2.4744 3.5172 9.4795 0.019633 122.91 —80.222 —107.159 eta da
-40 CHs5COO Butyl acetate (1) 2.1657 3.1228 6.3179 0.033812 148.91 —306.733 —387.458 19,342 7910
-41 CH>COO Methyl Butyrate (1) 1.6329 2.9850 5.9619 0.026983 132.89 — 208.392 —364.204 21.100 9.479
-42, CHC0OO Ethyl isobutyrate (1) 1.0668 2.2869 4.7558 0.021990 125.52 —301.414 —352.057 24.937 9.317
-43 Ccoo Ethyl 2,2-dimethylpropionate (1) 0.3983 1.6918 dot tested tosa torto es 23,739 tons
-44 IICOO Propyl formate (1) 2.0223 5972 5.6064 0.015249 93.29 —276.878 —327.678 15.422 8.115
+18 aC except as above Benzophenone (1) 0.9176 5468 4.5344 0.012859 26.47 23.331 24.701 6.824 —0.531
+19 aN in aromatic ring Pyridine (1) 2.0438 3077 4.0954 —0.003339 36.47 89.902 70.862 9.420 2555
+20 aC-CH3 Toluene (1) 1.0068 5653 3.4611 0.020907 97.33 24.919 —19.258 8.279 2.969
+21 aC-CH2 Ethylbenzene (1) 0.1065 4925 2.9003 0.018082 87.19 31.663 4.380 11.981 0.948
+22 aC-CH Cumene (1) —0.5197 0.8665 1.9512 0.011795 73.51 30.393 18.440 13.519 —1.037
+23 aC-C tert-Butylbenzene (1) —0.1041 0.5229 0.8576 0.011298 67.20 40.127 Be 207 16912 —2.856
+24 aC-CH=CH, Styrene (1) 1.2832 2.4308 5.7861 0.030637 134.69 14.531 77.863 aces 4.013
+25 aC-CH=CH 1-Propenylbenzene (1) 1.7744 2.9262 6.5062 0.026282 128.84 11.216 88.084 ae 8.274
+26 aC-C=CH2 o-Methylstyrene (1) 1.2612 2.1472 4.9967 0.026371 110.74 15.728 90.927 ia 3.324
+27 aC-C=CH Phenylacetylene (1) 1.7495 2.3057 6.4572 0.019507 112.08 263.205 257.448 ee 2.514
+28 aC-C=C 1-Phenyl-1-propyne (1) Sec 2.7341 “Heke ee wees ene eee eee weeks
+29 OH 1,4-Butanediol (2) 2.7888 2.5670 5.2188 —0.005401 30.61 —144.051 —178.360 24.214 4.786
+30 aC-OH Phenol (1) 5.1473 3.3205 9.3472 —0.008788 50.77 —131.327 —164.191 34.099 8.427
+31 COOH 1,5-Pentanedioic acid (2) 7.4042 5.1108 14.6038 0.009885 90.66 —337.090 389,931 17.002 10.692
+22 aC-COOH Benzoic acid (1) 12.4296 6.0677 15.4515 0.017100 119.10 —312.422 —361.249 ees 14.649
+33 CH3CO 2-Butanone (1) 2.9588 3.1178 7.0058 0.025227 127.99 —120.667 —180.604 15.195 8.062
+34 CH2CO 3-Pentanone (1) 2.5232 2.6761 S157 0.019619 112.79 —120.425 —163.090 19,392 8.826
+35 CHCO 2,4-Dimethyl-3-pentanone (1) 1.1565 2.1748 4.4743 0.012487 97.16 —116.799 —139.909 20.350 7.205
+36 cco 2,2,4,4-Tetramethyl-3-pentanone (1) 1.0638 1.7287 Heke eee “eek “eek ll eee “eek
+37! aC-CO Acetophenone (1) 2.9157 3.4650 9.4806 0.011007 90.69 —91.812 —106.965 25.036 4.852
+38 CHO 1-Hexanal (1) 3.0186 2.5388 5.8013 0.010204 71.08 —100.882 —130.816 12.370 11.325
+39 aC-CHO Benzaldehyde (1) 2.4744 3.5172 9.4795 0.019633 122.91 —80.222 —107.159 eee a073
+40 CH3COO Butyl acetate (1) 2.1657 3.1228 6.3179 0.033812 148.91 —306.733 —387.458 19.342 7.910
+41 CH2COO Methyl Butyrate (1) 1.6329 2.9850 5.9619 0.026983 132.89 298.332 —364.204 21.100 9.479
+42 CHCOO Ethyl isobutyrate (1) 1.0668 2.2869 4.7558 0.021990 125,52 —301.414 —352.057 24.937 9.317
+43 CCcOoO Ethyl 2,2-dimethylpropionate (1) 0.3983 1.6918 ere eR ree eros weer 23.739 eer
+44 IICoo Propyl formate (1) 2.0223 2.5972 5.6064 0.015249 93.29 —276.878 —327.678 15.422 8.115
 
-+61
+61
 
-S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
 59
 60
 61
@@ -78,12 +78,12 @@ S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
 68
 69
 70
-7
+a
 72
-7,3
+B
 74
 75
-7%
+76
 77
 78
 79
@@ -92,7 +92,7 @@ S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
 82
 83
 84
-8s
+85
 86
 87
 
@@ -102,41 +102,41 @@ S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
 92
 93
 
-aC-C00
-aC-00CH
-aC-00C
+aC-COO
+aC-OOCH
+aC-OOC
 COO except as above
-CHaO
+CH30
 
-CcH,O
+CH20
 
 CH-O
 
 co
 
-aco
+aC-O
 
-CH, NH,»
-CHNH,
-CNH;
-CHsNH
-CH>5NH
+CH, NH:
+CHNH)
+CNH,
+CH3NH
+CH2NH
 CHNH
 
-CH;N
+CH3N
 
-CH5N
-aC-NH,
+CHoN
+aC-NH2
 aC-NH
 
 aC-N
 
-NH, except as above
+NHz except as above
 CH=N
 
 C=N
 
-CILCN
+CIInCN
 CHCN
 
 CCN
@@ -144,27 +144,27 @@ CCN
 aC-CN
 
 CN except as above
-CH;NCO
+CH2NCO
 CHNCO
 CNCO
 aC-NCO
-CH5NOs
+CH»NO2
 CHNO,
 CNO,
-aC-NO,
+aC-NO2
 
-NO; except as above
+NOz except as above
 ONO
 
-ONO,
-HCON(CH»)»
-HCONHCH,
-CONH,
-CONHCH;
-CONHCH,
-CON(CH3)>
-CONCH: CH»
-CON(CH5)»
+ONO2
+HCON(CH2)2
+HCONHCH2
+CONH2
+CONHCH3
+CONHCH2
+CON(CH3)2
+CONCH3CH2
+CON(CH2)2
 CONHCO
 CONCO
 
@@ -173,11 +173,11 @@ Phenyl formate (1)
 Phenyl acetate (1)
 
 Ethyl acrylate (1)
-Methyl butyl ether (1)
-Di-n-butyl cther (1)
+Methyl butyl! ether (1)
+Di-n-butyl ether (1)
 sec-Butyl ether (1)
 tert-Butylether (1)
-Mcethyl phenyl cther (1)
+Methyl phenyl ether (1)
 Ethylamine (1)
 sec-Butylamine (1)
 tert-Butylamine (1)
@@ -189,7 +189,7 @@ Tricthylamine (1)
 Aniline (1)
 
 N-methyl aniline (1)
-NN-dimethyl aniline (1)
+N,N-dimethyl aniline (1)
 Cyclobutylamine
 Acetaldazine (2)
 Ketazine (2)
@@ -205,29 +205,29 @@ tert-Butyl isocyanate (1)
 Phenyl isocyanate (1)
 1-Nitropropane (1)
 2-Nitropropane (1)
-2-Methyl-2-nitropropane (1)
+2-Methy]-2-nitropropane (1)
 Nitrobenzene (1)
 Nitrocyclohexane (1)
 Butyl nitrite (1)
 
 n-Butyl nitrate (1)
-Dicihylformamide (1)
+Dicthylformamide (1)
 Ethylformamide (1)
 Butyramide (1)
 Methylacetamide (1)
 Ethylacetamide (1)
 Dimethylacetamide (1)
-Mcthylethylacetamide (1)
+Mcthylethylacctamide (1)
 Diethylacetamide (1)
 Diacetamide (1)
 Methyldiacetamide
 
 1.334
 
-aeoaet
+soko
 
 4.804
-1.503
+1.503:
 1.364
 0.873
 0.246
@@ -235,25 +235,25 @@ aeoaet
 1.304
 3.274
 30.839
-11,740)
-2.403
+11.7401
+2.403.
 1.774
 1.757
 0.960
 0.044
 3.988!
-1,483
+1.483
 1.76
-3.347
+3.347,
 8.849
 
  
 
 8
 
-vw O E
+wo
 
-IATA RORDtO tw
+Nn A FON MD WwW
 
 9
 7
@@ -270,22 +270,22 @@ IATA RORDtO tw
 3.274
 4.225
 
-O
+0
 3
-7
+‘7
 6
 7
 6
 
-esco
+setolok
 
-9.149
+9,149
 2.232
 3.213
 0.781
 5.628
 4.353
-3.037
+3.037;
 
 2
 7
@@ -295,30 +295,30 @@ esco
 1
 6
 
-setor
+aetolciok
 
 4
 
-259%:
+2597:
 
  
 
-seed
+sete
 
 13.2124
 
 5.472
 5.882.
 
-O
-5
+0
+S
 
-41720
-x
+4.1720
+ck
 
  
 
-ema
+seme
 
 9.176
 3.265
@@ -330,7 +330,7 @@ ema
 0.4621
 3.0854
 
-21
+2,1
 
 903
 
@@ -341,10 +341,10 @@ ema
 1.8522
 2.7987
 2.0948
-1,6525
+1.6525
 2.2514
 1.8750
-1,2317
+1.2317
 1.3841
 
 1.
@@ -354,7 +354,7 @@ ema
 3.8298
 2.9230
 
-Ze
+2:
 
 918
 
@@ -369,29 +369,29 @@ Ze
 3.9774
 2.8870
 
-4.
+4,
 
 424
 
-3.0972,
+3.0972
 
 3.4
 
-(9)
+tw
 
 891
 
--1220
+1220
 
-Soto
+Boks
 
  
 
-B.
+3.
 
 853
 
-4.531
+4.5311
 3.8069
 3.3059
 4.5750
@@ -404,20 +404,20 @@ B.
 5.0724
 6.6810
 6.0070
-E
+skiok
 5.0664
 7.6172
 5.6487
 
 6.7311
 
-destotote
+yokaokye
 
-elo
+soled
 
 4.7346
 3.4393
-24217
+2.4217
 0.7889
 0.2511
 3.6588
@@ -434,7 +434,7 @@ elo
 5.8536
 4.7420
 
-eta
+lodalok
 
 12.9827
 8.4309
@@ -443,46 +443,46 @@ eta
 10.4124
 8.1381
 
-destotte
-estao
+gokaok ae
+soksok
 
-Aee
+soko
 
 6.5884
 
 10.9507
 
 9.5487
-sore
+fee
 
 12.1243
-era
-tre
-psp
+oko
+tokio
+eee
 
-4
+,
 
-Soto
+soled
 
 25.1184
 
 20.5590
-ot
+poke
 
 15.4603
-otro
-ep
-ota
+tokio
+pose
+seo
 
-destototde
+sokokie
 
  
 
 0.018948
 
-soe
+sok oke
 
-“otoeto
+stole
 
 0.013087
 0.020084
@@ -500,10 +500,10 @@ soe
 0.027454
 0.005335
 —0.005596
-—(.000838
+—0,000838
 0.000571
 
-eoteoete
+stole
 
 0.036523
 0.029034
@@ -511,45 +511,45 @@ eoteoete
 0.020978
 0.024346
 
-setor
+sokokok
 
-cetetetote
+eile
 
 0.025065
 0.021056
 0.014899
-oie
+sabe
 0.018311
-per
+sober
 
-setor
+setoleok
 
-eps
+Sobsobe
 
   
 
-eek
+stoke
 
 0.001467
 0.023455
 
-Soto
+sobsoch
 
 0.043090
 
  
 
-aoteotogede
+Rote
 
-setoetod
+seksi
 
 105.53
 
-aetoteot
+seo
 
-foot
+loiter
 
-8117
+81.17
 88.20
 74.03
 60.06
@@ -568,9 +568,9 @@ foot
 108.39
 63.39
 
-feto
+eletsiek
 
-apto
+ae
 
 133.62
 134.73
@@ -579,40 +579,40 @@ apto
 
 94.91
 
-aeteteot
-seetor
+seco
+sekeseok
 
-seo
+se
 
 141.24
 157.57
-143,36
-et
+143.36
+see
 133.06
-ec
-E
-rã
-etetatoe
+pete
+enh
+eee
+releok
 
-setototot
+seleiok
 
 138.71
 
-190,71
-ereto
+190.71
+peer
 
-244,1
-eta
-seas
-act
+244.71
+eke
+ae
+seb
 
-aetoetot
+seek
 
 —291.662
 
-setotot
+Rokk
 
-eek
+soletoek
 
 —299,803
 —90,329
@@ -625,7 +625,7 @@ eek
 55.202
 88.512
 88.874
-73.101
+73,101
 125.906
 121.247
 66.470
@@ -633,54 +633,54 @@ eek
 143.280
 42.687
 
-tee
+solesoesk
 
-134.997
+134,997
 142.475
 142,295
 162.175
 130.986
 
-setotok
+soko
 
-eat
+estos
 
  
 
 25.783
 16.407
-E
+ele
 57.352
-pera
-os
+soe
+eee
 
-pt
+sees
 
  
 
 —127.512
 —102.912
 
-septo
+sobioke
 
-—56.412,
+—56.412
 
  
 
-Seteoged
+okt
 
-sete
+yoke
 
 —307.727
 
-espe
+seks
 
-aeee
+sees,
 
 —331.397
-— 156.062
+—156.062
 —152.239
-— 147.709
+—147,709
 —121.608
 —101.783
 —10.703
@@ -688,7 +688,7 @@ aeee
 2.019
 24.740
 23.610
-21491
+21.491
 55.024
 65.331
 17.501
@@ -696,7 +696,7 @@ aeee
 115.606
 —8.556
 
-teses
+sees
 
 99.245
 151.390
@@ -704,23 +704,23 @@ teses
 148.968
 124.917
 
-espe
+seks
 
  
 
 —65.620
 —60.750
-eis
+eee
 —22.931
-rs
+eb
+
+seek
 
 ses
 
-apps
-
   
 
-e
+ee
 
 —201.369
 —203.069
@@ -729,15 +729,15 @@ e
 
 —48.210
 
-app
-a]
+seas
+soktok
 
-pode
+rekioo
 
 25.206
 
-aeee
-pls
+seks
+seek
 
 5.783
 
@@ -747,7 +747,7 @@ pls
 16.151
 15.432
 16.048
-17.254
+L725
 11.831
 13.067
 14.048
@@ -759,60 +759,60 @@ pls
 22,249
 13.425
 
-les
+seek
 
 21.923
 24.963
-24.967
-seria
+24,967
+sek
 16.639
-ator
+serio
 
-estes
+ser
 
  
 
 29.640
 29.173
-pers
+sees
 24.863
 eres
 
-separe
+seeks
 
-apa
+seats
 
  
 
 46.490
 44,240
 
-dotoios
-52.723
+tokio
+$2.723
 38.290
 
  
 
  
 
-Aotetesos
+dete
 
  
 
 8.149
-ot
+serie
 5.875
 10.573
 5.089
 4.891
-4,766
+4.766
 2.458
-—0,118
+—0.118
 13.482
 6.283
-o
+Sed
 4.490
-na
+TAL
 2.561
 6.008
 1.756
@@ -821,16 +821,16 @@ na
 —2.576
 6.158
 
-aelepeee
+dealer
 
-oi
+eee
 7.303
 9.464
 4.166
 6.788
 6.867
 
-fotosot
+RoR
 
  
 
@@ -838,9 +838,9 @@ fotosot
 
  
 
-S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
 
-S61
+S6l
 Table 6 (Continued)
 
  
@@ -873,60 +873,60 @@ Table 6 (Continued)
 
  
 
-Group Example Toi Fou Taj Pesi Veai Gai He; Hai Husri
-94 aC-CONH» Benzamide 12.8071 8.3775 ema ad sam E Re E 16.811
-95 aC-NH(CO)H N-phenylformamide (1) 5.6631 7.3497 19.8979 0.023447 162.08 —44.595 —125.052 es 8.658
-96 aC-N(CO)H N-methyl-N-phenylmethanamide (1) 3.3602 ssa torta tara ti sa tt ra toi
-97 aC-CONH N-methylbenzamide (1) 6.5160 7.5850 tod trt pri tetit eta 10.959
-98 aC-NHCO N-(2-methylphenylacetamide (1) 9.8204 7.4955 do ton terei det tetedos 4.370
-99 a€-NCO Phenylmethylacetamide (1) 7.2552 ee eae ares res ee ER aee
-00 | NHCONH N,N'-dimethylurea (1) 9.3110 8.9406 too tonta ti teta et 9.862
-01  NH>5CONH Methylurea (1) 14.2020 16.3539 eng nt use pn euro 12.845
-02 NH>CON N,N-dimethylurea (1) 13.0856 2.0796 * * * 10.958
-03  NHCON Trimelhylurea (1) 8.4447 7.1529 É: 12.098
-04 NCON Tetramethylurea (1) 3.5041 4.1459 td tt tp tod topa 9.557
-05 — a€-NHCONH, Phenylurea (1) 13.4695 5.7604 nam REA Fases sema pa 16.703
-06 | aC-NHCONH N,N'-diphenylurea 23.2570 .1633 ot topete tt ted teto 18.460
-07 | NHCO exceptasabove  N-chloroacetamide (1) 3.0882 anta san saia ns tdi aee e ao
-08 CH -Chlorobutane (1) 1:9258 2.6364 6.2561 0.021419 112412 —19.484 —65.056 11,754 6.353
-09  cHCl 2-Chloropropane (1) 1.0224 2.0246 4.3756 0.015640 100.78 31.585 —65.127 12.048 tor
-10 cc 2-Chloro-2-methylpropane (1) 1.8424 “7049 3.7063 0.009187 87.01 —37.848 —62.881 16.597 —0.082
-11º CHE »1-Dichloroethane (1) 2.5196 3.3420 7.8956 0.028236 159,79 —24.214 —80.812 JA 25 6.781
-12  €Cb 2,2-Dichloropropane (1) 3.6491 2.9609 ae E ess es te 20.473 1.823
-13 CC .1,1-Trichloroethane 4.4493 3.9093 8.8073 0.036746 204.71 —44.122 —105.369 20.550 3.492
-14. CH5F -Fluorobutane (1) 1,5597 .5022 3.3179 0.023315 sua —180.212 —227,469 8.238 7.139
-15 CHF 2-Fluorobutane (1) 1.1289 5158 2.6702 0.020040 78.08 —228.239 —261.901 tea 3.917
-16 CF 2-Fluoro-2-methylpropane (1) 2.5398 0084 2.1633 | —0.010120 as sn ese 6.739 ras
-17 CHE »1-Difluoroethane (1) 2.1689 2.2238 3.5702 0.031524 102,71 —411,239 —463.901 tetra 7.011
-18 CF Perlluorohexance (4) 0.1312 0.5142 0.8543 0.018572 95.09 ee a 1.621 san
+Group Example Lm Tou Feri Peri Ver Gp; He; Ayij Hyysii
+94 aC-CONH2 Benzamide 12.8071 8.3775 Tae sees eRe Ee es THES 16.811
+95 aC-NH(CO)H. N-phenylformamide (1) 5.6631 7.3497 19.8979 0.023447 162.08 —44.595 —125.052 ae 8.658
+96 aC-N(CO)H N-methyl-N-phenylmethanamide (1) 3.3602 5.1378 peer ere hee ree eee ae hee
+97 aC-CONH N-methylbenzamide (1) 6.5160 7.5850 “eee eee eee eke eee 10.959
+98 aC-NHCO N-(2-methylphenyl)acetamide (1) 9.8204 TA9SS heres Heer eee eee ees 4.370
+99 aC-NCO Phenylmethylacetamide (1) 7.2552 oe mee ees re Hart oe i
+00 NHCONH N,N'-dimethylurea (1) 9.3110 8.9406 il See eee eke eee 9.862
+01 NH2CONH Methylurea (1) 14.2020 16.3539 mere Vee hat oe nee 12.845
+02 NH2:CON N,N-dimethylurea (1) 13.0856 2.0796 * * * 10.958
+03. NHCON Trimethylurea (1) 8.4447 7.1529 ‘ 12.098
+04 NCON Tetramethylurea (1) 3.5041 4.1459 Mek eee ee ee eas 9.557
+05 aC-NHCONH: Phenylurea (1) 13.4695 5.7604 wees ae See 2 ae 16.703
+06 aC-NHCONH N,N'-diphenylurea 23.2570 1633 “eee ree “enter “Heke “eto 18.460
+07 NHCOexcept asabove N-chloroacetamide (1) 3.0882 et eee Set ee eee aaa hens Oe
+08 CHCl -Chlorobutane (1) 1,9253 2.6364 6.2561 0.021419 11242 —19.484 —65.056 11,754 6.353
+09 = CHCI 2-Chloropropane (1) 1.0224 2.0246 4.3756 0.015640 100.78 31.033 —65.127 12.048 “Web
+10 36CcCcl 2-Chloro-2-methylpropane (1) 1.8424 -7049 3.7063 0.009187 87.01 —37.848 —62.881 16.597 —0.082
+Il CHClz ,1-Dichloroethane (1) 2.5196 3.3420 7.8956 0.028236 159.79 —24,214 —80.812 1.251 6.781
+12 CCh 2,2-Dichloropropane (1) 3.6491 2.9609 Beer eet ror Peer weeks 20.473 1.823
+13° CCh _L,1-Trichloroethane 4.4493 3.9093 8.8073 0.036746 204.71 —44,122 —105.369 20.550 3.492
+14. CH2F -Fluorobutane (1) 1.5597 5022 3.3179 0.023315 87.71 180.212 —227.469 8.238 7.139
+15 CHF 2-Fluorobutane (1) 1.1289 3/38 2.6702 0.020040 78.08 —228.239 —261.901 ees 3.917
+16 CF 2-Fluoro-2-methylpropane (1) 2.5398 0084 2.1633 = —0.010120 Re — me 6.739 a
+17 CHF, ,1-Difluoroethane (1) 2.1689 2.2238 3.5702 0.031524 102.71 —411.239 —463.901 ae 7.011
+18 CF, Perfluorohexane (4) 0.1312 0.5142 0.8543 0.018572 95.09 Ss ee 1.621 ieee
 19 CF; Hexafluoroethane (2) 1.4828 1916 1.7737 0.048565 108.85 —615.333 —673.875 7.352 2.526
-20  CChF “Tetrachloro-1,2-difluoroethane (2) 3.2035 2.5053 5.1653 0.037948 171.04 —249.020 —306.765 8.630 3.114
-2 HCCIF -“Chloro-1,2,2,2-tetralluorocthane (1) tone 2.0542 en tende dee tone de tera terei
-Mm  ECIP; 2-Dichlorotetrafluoroethane (2) 1.7510 «J207 3.0593 0.041641 146.01 —396.814 —458.074 8.086 2.156
-23 acc Chlorobenzene (1) 1.7134 2.0669 5.7046 0.016033 92.67 1.985 —17.002 11.224 4.435
-24.  aC-F Hexafluorobenzene (6) 0.9782 (0.7945 1.5491 0.014037 54.36 —141.306 — 160.965 3.965 2.003
-25 aCT Todobenzene (1) 2.1905 3.7739 12.4470 0.014403 131.08 91.505 95.048 ess 2814
-26 — aC-Br Bromobenzene (1) 2.474 2.8414 8.4199 0.010199 104.12 42.977 38.917 14.393 5.734
-27. I exceptas above Todoethane (1) 1.9444 3.1778 8.5775 —0.004637 104.28 43.910 47.632 14.171 6.103
-28 Br” except as above Bromoethane (1) 1.764 24231 4.5036 —0.001460 77.99 5.528 — 1.703 9.888 4.826
-29 Fº exceptas above Benzyl fluoride (1) 1.2308 0.8504 0.8976 0.012034 24.62 — 182.973 —201.968 ese 3.096
-30 Cl” except as above Ethyl chloroacetate (1) 1.5454 1.5147 4.0947 0.007923 ST —29.876 —46.963 teto 5.181
-31 CHNOH Propionaldehyde oxime (1) 3.9813 4.572 a ad asa e E En aa
-32 CNOH Diethyl ketoxime (1) 3.5484 4.0142 eeepo opte ae eee eeete eps ee
-33 aC-CHNOH Phenyl oxime (1) 10.5579 eee eo eopedede ope often Rook etojopos depot
-34 OCH>CH,0H 2-Ethoxyethanol (1) 2.365 48721 10.4579 0.025986 159.33 —235,335 —343.903 31,493 8.454
-35 OCHCH,0H 2-Ethoxy-1-propanol (1) eae 4.2329 Beer efe es ee HER aee eee
-36 — OCH,CHOH 1-Methoxy-2-propanol (1) 1.579 3.6653 Ato 0.018783 147.66 —239.423 —333.385 E 12.594
-37. -O-0H tert-Bulylhydroperoxide (1) 4.818 3.1669 5.8307  —0.002815 58.01 —75.568 —125.111 Pepe ai
-38  CH>5SH Ethanethiol (1) 2.2992, 3.1974 7.7300 0.017299 105.68 27.469 —8.021 16.815 10.068
+20. CChF ‘Tetrachloro-1,2-difluoroethane (2) 3.2035 2.5053 5.1653 0.037948 171.04 —249.020 —306.765 8.630 3.114
+21 HCCIF -Chloro-1,2,2,2-tctralluoracthane (1) eee 2.0542 cai eee eee fee wee eee wees
+22 CCIFy ,2-Dichlorotetrafluoroethane (2) 1.7510 wa aF 3.0593 0.041641 146.01 —396.814 —458.074 8.086 2.156
+23. aC-Cl Chlorobenzene (1) 1.7134 2.0669 5.7046 0.016033 92.67 1.985 —17.002 11.224 4.435
+24. aC-F Hexafluorobenzene (6) 0.9782 0.7945 1.5491 0.014037 54.36 —141.306 —160.965 3.965 2.003
+25 aC-T Todabenzene (1) 2.1905 3.7739 12.4470 0.014403 131.08 91.505 95.048 eee 2.814
+26 aC-Br Bromobenzene (1) 2.474 2.8414 8.4199 0.010199 104.12 42.977 38.917 14.393 5.734
+27. ‘I exeepl as above Jodocthane (1) 1.9444 3.1778 8.5775 —0.004637 104.28 43.910 47.632 14.171 6.103
+28 Br- except as above Bromoethane (1) 1.764 2.4231 4.5036 —0.001460 77.99 5.528 —1.703 9.888 4.826
+29 ~F except as above Benzyl fluoride (1) 1.2308 0.8504 0.8976 0.012034 24.62 —182.973 —201.968 eee 3.096
+30. Cl except as above Ethyl chloroacctate (1) 1.5454 1.5147 4.0947 0.007923 S777 —29.876 —46.963 ees 5.181
+31 CHNOH Propionaldehyde oxime (1) 3.9813 4.5721 BOSS ones oa eee ee Te aes
+32 CNOH Diethyl ketoxime (1) 3.5484 4.0142 eee secre AES eR see ACA ARES
+33 aC—CHNOH Phenyl oxime (1) 10.5579 Erne ad ceatok aR CR SR SR Fe CR AR
+34.  OCH2CH,0H 2-Ethoxyethanol (1) 2.365 4.8721 10.4579 0.025986 159.33 233,335 —343.903 31.493 8.454
+35 OCHCH,0H 2-Ethoxy-1-propanol (1) seeeese 4.2329 ee cece ERS eR HERPES, RACK AER
+36 OCH,CHOH 1-Methoxy-2-propanol (1) 1.579 3.6653 mere 0.018783 147.66 —239.423 —333.385 ee 12.594
+37. —O-OH tert-Bulylhydroperoxide (1) 4.818 3.1669 5.8307  —0.002815 58.01 —75.568 —125.111 ener wee
+38  CHSH Ethanethiol (1) 2.2992 3.1974 7.7300 0.017299 105.68 27.469 —8.021 16.815 10.068
 39 CHSH 2-Propanethiol (1) 0.9704 2.5910 5.8527 0.008968 109.36 27.030 3.510 17.098 4.266
-40  CSH 2-Methyl-2-propancthiol (1) 4.2329 2.0902 4.6431 0.005118 94.01 27.338 12.589 18.397 —0.623
+40 CSH 2-Methyl-2-propancthiol (1) 4.2329 2.0902 4.6431 0.005118 94.01 27.338 12.589 18.397 —0.623
 
  
 
 961
 
-S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
 56
 57
 
@@ -934,91 +934,91 @@ S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
 74
 75
 76
-7”
+77
 78
 79
 80
 81
 82
 
-aCc-SH
+aC-SH
 
 —SH (except as above)
-CH;S
+CHS
 
-cH;S
+CH2S
 
-cHS
+CHS
 
 cs
 
-aC-S—
+aC-S-
 
 so
 
-SOs
+SO,
 
-SOs (sulfite)
-SOs (sulfonate)
-SO (sulfatc)
-ac-SO
+SO3 (sulfite)
+SO3 (sulfonate)
+SOz (sulfate)
+aC-SO
 
-at-SO,
+aC-SO2
 
 PH (phosphine)
 P (phosphine)
 POs (phosphite)
-PHOs (phosphonate)
-PO; (phosphonate)
+PHO; (phosphonate)
+PO3 (phosphonate)
 PHO, (phosphate)
 PO, (phosphate)
-aC-POs
+aC-PO4
 
 aC-P
 
 COs (carbonate)
-CH0
+C:H30
 
-CHO
+C:H20
 
-Co
+C20
 
-CH; (eyclic)
+CHz (cyclic)
 
-CH (eyelic)
+CH (cyclic)
 
-€ (eyelic)
+C (cyclic)
 CH=CH (cyclic)
-CH=cC (eyclic)
-C=C (eyclic)
-CH,=C (cyclic)
+CH=C (cyclic)
+C=C (cyclic)
+CH2=C (cyclic)
 NH (cyclic)
 
-N (eycelic)
-CH=N (eyclic)
-C=N (eyclic)
+N (cyclic)
+CHEN (cyclic)
+C=N (cyclic)
 
-O feyclic)
+O (cyclic)
 
-CO (eyclic)
+CO (cyclic)
 
 S (cyclic)
 
-SO; (eyelic)
+SOz (cyclic)
 
 Benzenethiol (1)
 Cyclohexanethiol (1)
-Dimcthylsulfide (1)
+Dimethylsulfide (1)
 Diethylsulfide (1)
-DiisopropylIsulfide (1)
-di-tert- Butylsulfide (1)
+Diisopropylsulfide (1)
+di-tert-Butylsulfide (1)
 Phenyl methyl sulfide (1)
-Dimothyl sulfoxide (1)
+Dimethyl sulfoxide (1)
 Dimethyl sulfone (1)
 Dimethyl sulfite (1)
 Dimethyl sulfonate (1)
-Dimoethyl sulfate (1)
-Phenyl methyl sulfoxide (1)
+Dimethyl sulfate (1)
+Phenyl methyl! sulfoxide (1)
 Diphenyl sulfone (1)
 Dimethylphosphine (1)
 Trimethylphosphine (1)
@@ -1026,28 +1026,28 @@ Triethylphosphite (1)
 Dimethylphosphonate (1)
 Trimethylphosphonate (1)
 Diethylphosphate (1)
-“Trimethylphosphate (1)
+‘Lrimethylphosphate (1)
 Triphenylphosphate (1)
 Triphenylphosphine (1)
-Dicthylcarbonate (1)
+Dicthylearbonate (1)
 
 Ethyl oxirane (1)
 2,2-Dimethyl oxirane (1)
-Trimelhyl oxirane (1)
+Trimethyl oxirane (1)
 Cyclopentane (5)
 Mcthyleyclopentane (1)
-1,1-Dimethyleyelohexane (1)
+1,1-Dimethylcyclohexane (1)
 Cyclobutene (1)
 1-Methylcyclopentene (1)
 1,2-Dimethylcyclopentene (1)
 Methylene cyclohexane (1)
-Cyelopentiminc (1)
+Cyclopentimine (1)
 N-methylpyrrolidine (1)
 Imidazole (1)
 2-Methyl-1H-imidazole (1)
 Tetrahydropyran (1)
 Cyclobutanone (1)
-2-Methyl-thiophene (1)
+2-Methy!-thiophene (1)
 Cyclobutadiene sulfone (1)
 
  
@@ -1063,35 +1063,35 @@ Cyclobutadiene sulfone (1)
 0.9646
 5.3663
 7.0778
-enc
+sealokecak
 5.8426
 3.6976
 3.9911
 5.2948
 
-eseopoea
-erre
+sec
+eee
 
 1.0306
-estao
+sekdeck
 
-Asas
+sak
 
 2.7461
 2.0330
 —1.7840
 0.2337
 3.6593
-13135
+1.3135
 
-rap
+ee
 
-Aetezoã
+sainkocks
 
 0.5699
 0.0335
 0.1695
-1,1936
+1.1936
 0.4344
 0.3048
 0.2220
@@ -1101,7 +1101,7 @@ Aetezoã
 6.6382
 1.3828
 3.2119
-1,6023
+1.6023
 6.1006
 
 3.2675
@@ -1109,7 +1109,7 @@ Aetezoã
 2.9892
 2.6524
 2.0965
-1,6412
+1.6412
 2.9731
 6.2796
 7.0976
@@ -1146,102 +1146,102 @@ Aetezoã
 2.8793
 2.3256
 
-sampa
+BARRA
 
 9.5115
 7.7987
 6.9733
 6.4871
 
-eee
-popa
+okt
+Derk
 
-eee
+eke
 
 19.8953
 17.2586
 8.6910
-atos
+seoick
 18.9366
-esto
-et
-set
-etototot
-ate
-opte
+seek
+seek
+Heb
+ebook
+seeite
+spk
 16.9914
-sto
+see
 38.6148
 6.6804
 6.6418
 6.0159
-ao
+sete
 1.8815
 1.1020
 —0.2399
 3.6426
 3.5475
-elotat
+eee
 4.4913
 5.9726
 4.3905
 
-err
+shee
 
  
 
 2.7409
 12.6396
 5.5523
-24.3995
+24,3995
 
 0.010086
 0.006399
 0.018013
 0.015254
 
-sotot
-ope
+sfslokalok:
+eats
 
-teto
+rede.
 
-—(..005534
+—0.005534
 —0.000784
 0.004240
-toe
-—(0.027208
-nt
-nene
-e
-spa
-etnia
-esto
-era
-teia
+vere
+—0.027208
+seseobk
+seeork
+seit
+seo
+seo
+see
+seiko
+verbo
 —0.029036
-esse
+res
 —0.126108
 0.007235
 0.021238
 0.010678
-np
+sear
 0.009884
 0.007596
 0.003268
 0.013815
 0.010576
-or
+sebiork
 0.019101
 —0.003678
 —0.001179
 
-er
+ee
 
  
 
-esote
+fete
 
-—(0.000387
+—0.000387
 —0.000207
 0.001540
 0.002487
@@ -1251,26 +1251,26 @@ esote
 122.03
 106.60
 
-etoieãe
-apo
+elotoick
+sek
 
-aeee
+dele
 
 82.36
-89,95
+89.95
 115.80
 
-adere
+sek
 
 144.58
 
-aotopesaã
+afok
 
 135.47
 
-erga
+eee
 
-sp
+sake
 
  
 
@@ -1283,61 +1283,60 @@ sp
 35.845
 42.684
 
-afete
-deste
+aod
+oki
 
-sete
+seen
 
 —52.231
 —257.608
 
-efe
-destes
+oe
+okie
 
 —519.853
 
-resto
+oR
 —314.643
-espe
+sas
 
-ereaã
+eR
 
-eo
+lee
 
-dept
+epionte
 
-+8054
+REE
 
-teto
+oR HOR
 
-eee
+FREE
 
-ese
+se
 
-depot
-
-— 447.186
+opto
+—447.186
 11.149
-1,890
-sereon
+1.890
+ORR
 13.287
 6.107
 —0.193
 86.493
 67.056
 
-detect
+soko
 
-ssptoet
+skskkeek
 
 72.540
 83.779
 
-test
+Ree
 
  
 
-e
+ad
 
 —114.062
 —156.672
@@ -1348,30 +1347,30 @@ e
 41.648
 11.339
 —3.337
-21.492
+21,492
 
-fetojor
-aeteetot
+eletoiok
+seco
 
-seo
+soto
 
 —71.050
 —305.498
 —430.833
 
-aeteetet
+seKsioo
 
 —621.412
 
-ato
+seek
 —370.493
-terre
-aepttes
-eleito
-detogted
-spa
+pepe
+Hetisk
+ebook
+selobtet
+ki
 
-etetotote
+afer
 
 —1060.325
 —1005.161
@@ -1379,24 +1378,23 @@ etetotote
 —516.282
 —52.241
 —51.390
-senta
+se
 —18.575
-
-— 12.464
+—12.464
 —2.098
 59.841
 64.295
 
-aetegetot
+afetesedeae
 
-otor
+seleklk
 
 23.138
 65.622
 
-eee
+seer
 
-etotetot
+sfeeoe
 
 —137.353
 —180.166
@@ -1404,105 +1402,106 @@ etotetot
 15.453
 —283.839
 
-17413
+17.413
 
 9.813
 14.296
 16.965
-19,038
-19.996
+19.038
+19,996
 
-setas
-aetetetos
-eps
-setor
-sesta
-aededeos
-aettopos
-sesetesor
-ess
-err
-setetoto
-era
-ass
-aettoto
-eee
-ater
-e
+KES
+soto
+HOR
+eR
+sebIOK
+week
+Foto
+sotoka
+ee
+aera
+sololoto
+eR
+RE
+debe
+EH
+FRI
+seo
+
 21.613
-sesteto
-eres
+yetob
+EERE
 
-Hetejooã
+orto
 
 3.341
 6.416
 7.017
 7.767
-717
+TATL
 
-desejo
-seo
+sekedokes
+sokdok
 
 13.700
 
-ser
+seek
 
-em
+cy
 
  
 
 6.877
 17,124
-12.262
+12,262
 
-aaa
+RRA
 
 4.513
 5.829
-7.497
+7A9ST
 4.096
 
-eettese
-sea
+lode
+sek
 
-seed
+deletes
 
 13.403
 17.748
 
-totem
+ORE
 sete
-sesequiç
-ot
+seek
+seo
 
 3.281
-eres
+Sees
 
-apso
+skaters
 
  
 
-a
+PRE
 
-papa
+seh
 4.256
 —5.654
 8.363
 
-atoa
+foro.
 
-eps
+FERRE
 
-toa
-
- 
+Heke
 
  
 
-S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
+ 
 
-L6T
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
+
+Lol
 Table 7
 Second-order groups and their contributions along with sample assignments
 
@@ -1518,57 +1517,57 @@ Second-order groups and their contributions along with sample assignments
 
  
 
-Group Example Tm2j To; To; Po; Vo; Gp; Ho; Hoy Hus2j
-1 (CHs3)>CH 2-Methylpentane (1) 0.1175  —0.0035 —0.0471 0.000473 1.71 —Q.418 —0.419 —0.399 0.396
-2 (CHs)3€ 2,2,4,4-Tetramethylpentane (2) —Q.1214 0.0072 —0.1778 0.000340 3.14 —2.776 —1.967  —0417 0.554
-3 CH(CH3)CH(CHs) 2,3,4-Trimethylpentane (2) 0.2390 0.3160 0.5602  —0.003207 —3.75 6.996 6.065 0.532 —1.766
-4 CII(CIK)C(CHs)» 2,2,3,4,4-Pentamethylpentanc (2) —0.3276 0.3976 0.8994 —0.008733 —10.06 8.938 8.078 0.623 0.351
-5 C(CH3)C(CH3)» 2,2,3,3,4,4-Hexamethylpentane (2) 3.3297 0.4487 1.5535  —0.016852 —8.70 10.735 10.535 5.086 —1.089
-6 CH,=CH,-CH,=CH, (k,m,n,pin 0.2) 1,3-Buladiene (1) 0.7451 0.1097 0.4214 0.000792 —7.88 —6.562 —11.786 1.632 1.408
-7 CHs-CH,,=CH, (m, nin 0..2) 2-Mcthyl-2-butene (3) 0.0524 0.0369 —0.0172  —0.000101 0.50 —0.120 —0.048 0.064 0.070
-8 CH,-CH,, =CH, (m, nin 0..2) 1,4-Pentadiene (2) —0.1077  —0.0537 0.0262 0.000815 0.14 1.006 449  —0.060 —0.632
-9 CH,-CH,,=CH, (m, nin 0.2; pin 0.1) 3-Methyl-1-butene (1) —0.2485  —0.0093 —0.1526  —0.000163 —2.67 3.857 3.964 0.004 —0.368
-10 CHCHO or CCHO 2-Mcthylbutyraldchyde (1) 0.5715  —0.1286 —1.0434 0.005789 10.36 —0.525 5l4  —0.550 —0.369
-11 CH: COCH> 2-Pentanone (1) —(0.0968  —0.0215 —0.0338  —0.000111 —4.08 —1.543 0.033  —0.403 0.105
-12 CH: COCH or CHsCOC 3-Methyl-2-pentanone (1) —0.6024  —0.0803 —0.3658  —0.001892 3.02 2.202 4.994 0.723 1.005
-13 CHCOOH or CCOOH 2-Mcthyl bulanoic acid (1) —3.1734 —0.3203 —4.7275 0.006916 10.56 3.920 121 7.422 5.475
-14 CH: COOCH or CH;COOC Isopropyl acetate (1) 0.2114 —0.2066 —0.5537  —0.000569 4.28 —11.779  —12.295 —1.87 1.208
-15 CO-O-CO Propanoic anhydride (1) —1.2441  —0.0500 —(.3576 0.001812 2.98 —16.075  —14.140 triet —2.666
-16 CHOH 2-Butanol (1) —(0.3489 —0.2825 —(.6768 0.000246 3.04 5.614 4.422 0.206 0.599
-17 coH 2-Methyl-2-butanol (1) 0.3695  —0.5325 —1.5224 0.003224 13.98 —25.382  —25.929  —1.579 —(0.459
-18 CH; COCH, OH (n in 0..2) 3-Hydroxy-2-butanone (1) 0.9886  —0.2987 —0.3940  —0.002912 5.17 6.621 8.244 E seres
-19 NCCHOH or NCCOH 2-Hydroxypropionitrile (1) —1.1810 0.2981 0.3414 —0.000516 0.68 4.833 0.000 tt —0.149
-20 OH-CH,-COO (nin 0.2) Ethyl lactate (1) -0.1526 —0.2310 Ra ot sent des ese ea
-21 CH, (OH)CH, (OH) (m, n in 0..2) Ethylene glycol (1) —0.0414 0.8854 1.9395 —0.004712 7.54 —1.051 —0.592 —6.611 — 0.306
-22 CH, (OH)CH,(—) (m, n, p in 0..2) 2-Amino-1-butanol (1) —0.5941 0.5082 1.2342 0.002581 5.58 —1.506 —0.959 Reto —0.041
-23 CH,(NH;)CH,(NH;) (1, nin 0.2) Ethylenediamine (1) 0.3258 00064  -3.3555 0000726 2082 0344 1443 2384 157%
-24 CH, (NH)CH, (NH5) (1, nin 1..2) Diethylenetriamine (1) —1.8403 0.2318 —1.1598 0.000157 —2631 3.848 3.608 ape ds
-25 H;NCOCH, CH, CONH» (m, nin 1..2) Butanediamide (1) 11.5351 ia tre ode to ste et tod tetos
-26 CHy(NH,)-COOB (x, nin 0.2) i-Alanine (1) 123481 e 624740 0002696 1778 31450 6598 ee 7022
-27 HOOC-CH,-COOH (n in 1..2) Malonic acid (1) 0.9327 —Q.1222 1.9595  —0.001479 12.46 —5.217 —6.058 + 4.264
-28 HOOC-CH,-—CH,,—COOH (a, m in 1..2) Succinic acid (1) 7.5057 anda 0.7686 0.000090 15.17 —4.281 — 6.929 ESA 29.245
-29 HO-CH,-COOH (ain 1.2) 2-Hydroxyisobutyric acid (1) 04531 —0.4625 E ne cer eme en eme
-30 NH;-CH,-CH,-COOH (n, min 1.2) B-Alanine (1) 141593; re sena cena seus essa seres
-31 CH3-O-CH,-COOH (n in 1..2) Methoxyacetic acid (1) —2.3026 0.9198 0.4750  —0.001445 7.91 —2.678 —1.727 EPE rear
-32  HS-CH-COOH 2-Mercaptopropionic acid (1) —2,1535 topos rei repeat Pet en cs Pote ei
-33 HS-CH,-CH,,—COOH (n, min 1..2) B-Thiolactie acid (1) —2.7514 a —(0.2697 0.000655 20.43 —7.376 7.292 nt —3.623
-34 NC-CH, -CH,,-CN (n, min 1..2) 1,2-Dicyanoethane (1) 4.0747 1.8957 1.9699 0.002330 24.82 18.974 5.661 asso —8.038
-35 OH-CH,-CH,,—CN (x, mm in 1..2) 3-Hydroxypropanenitrile (1) —(1.0493 1.3434 0.2311 —0.001022 14.54 0.558 —3.9D6 Ape —4.371
-36 HS-CH,-CH,,—SH (n, min 1..2) 1,2-Ethanedithiol (1) 0.2232 0.1815 2/1270, 0.001321  —10.31 6.728 0.794. —0.683 —0.931
-37 COO-CH,-CH,,-OOC (a, m in 1..2) Ethylene glycol diacetate (1) —0.5946 0.3401 1.5418  —0.003385 —2.33 1.306 4.025 1.203 deep
-38 00C-CH,,—-CH, -COO (n, min 1..2) Dimethylsuccinate (1) 2.5962 0.5794 ne dote dd tt doa tende 2.303
-39 NC-CH,-COO (x in 1,.2) Methylcyanoacetate (1) —0.2509 1.2171 2.7051 . —0.001999 —0.73 REtaA FA ça 1.100
-40 COCH, COO (n in 1..2) Methylacetoacetate (1) 0.6304 0.2427 0.7502  —0.000231 1.69 10.556 —7.261 toe ae
-41 CH,-O-CH,=CH, (m, n, pin 0..3) Ethyl viny ether (1) —0.0811 0.1399 0.2900  —0.000432 —4.54 —10.098 —9.411 0.372 3.169
-42 CH,,=CH,-F (m, nin 0..2) 1-Fluoro-1-propene (1) —0.2568 0.0591 Ei RERME gi deter ERME EE 2.823
-43 CH, =CH,-Br (m, n in 0..2) 1-Bromo-l1-propene (1) —0.4329 —0.3192 +pr —0.010021 2.63 14.470 17.014 toe 2.212
-44 CH, =CH,A (m, n in 0..2) 1-Iodo-1-propene (1) eos —0.3486 aeeopeoteot cespe pente aee cespentenpeo eee eee
-45 CH, =CH,-Cl (m, nin 0.2) 1-Chloro-2-methylpropene (1) 0.0446  —0.0268 —0.0188 0.000152 2.80 8.207 9.715 toi —0.480
-46 CIL, =CIL,—CN (1m, nin 0..2) Acrylonitrile (1) 0.1027 0.0653 —1.1249 0.000893 3.82 —8.304  —16.903 pe —0.405
+Group Example Tino Tyaj Te; Poy Veoj Gp; Ap; Hay Aiys2j
+1 (CH3)2CH 2-Methylpentane (1) 0.1175  —0.0035 —0.0471 0.000473 LL —0.418 —0.419 —0.399 0.396
+2 (CH3)3C 2,2,4,4-Tetramethylpentane (2) —0.1214 0.0072 —0.1778 0.000340 3.14 —2.776 —1.967 —0417 0.554
+3 CH(CH3)CH(CH3) 2,3,4-Trimethylpentane (2) 0.2390 0.3160 0.5602 —0.003207 —3.75 6.996 6.065 0.532 —1.766
+4 CTI(CII3)C(CH3 )2 2,2,3,4,4-Pentamethylpentane (2) —0.3276 0.3976 0.8994 —0.008733 —10.06 8.938 8.078 0.623 0.351
+5 C(CH3)2C(CH3)2 2,2,3,3,4,4-Hexamethylpentane (2) 3.3297 0.4487 1.5535 —0.016852 —8.70 10.735 10.535 5.086 —1.089
+6 CH, =CH,,-CH, =CH, (&, m,n, pin 0.2) — 1,3-Buladiene (1) 0.7451 0.1097 0.4214 0.000792 —7.88 —6.562  —11.786 1.632 1.408
+7 CH3-CH,, =CH,, (m, 1 in 0..2) 2-Mcthyl-2-butene (3) 0.0524 0.0369 —0.0172 —0.000101 0.50 —0.120 —0.048 0.064 0.070
+8 CH2-CH,, =CH, (m, n in 0..2) 1,4-Pentadiene (2) —0.1077 —0.0537 0.0262 0.000815 0.14 1.006 449 —0.060 —0.632
+9 CH,-CH,, =CH,, (m, 1 in 0..2; p in 0..1) 3-Methyl-1-butene (1) —0.2485  —0.0093 —0.1526 -—0,000163 —2.67 3.857 3.964 0.004 —0.368
+10 CHCHO or CCHO 2-Mcthylbutyraldchyde (1) 0.5715  —0.1286 —1.0434 0.005789 10.36 —0.525 514  —0.550 —0.369
+11 CH3COCH2 2-Pentanone (1) —0.0968 —0.0215 —0.0338 —0.000111 —4.08 —1.543 0.033 —0.403 0.105
+12 CH3COCH or CH3COC 3-Methyl-2-pentanone (1) —0.6024 —0.0803 —0.3058 —0,001892 3.02 2.202 4,994 0.723 1.005
+13 CHCOOH or CCOOH 2-Mcthyl bulanoic acid (1) —3.1734 —0.3203 —4.7275 0.006916 10.56 3.920 121 7422 5.475
+14 CH3COOCH or CH3COOC Isopropyl acetate (1) 0.2114 —0.2066 —0.5537 —0.000569 4.28 —11.779 —12.295  —1.871 1.208
+15 CO-0-CO Propanoic anhydride (1) —1.2441 —0.0500 —0.3576 0.001812 2.98 —16.075 —14.140 Hee —2.666
+16 CHOH 2-Butanol (1) —0.3489  —0.2825 —0.6768 0.000246 3.04 5.614 4.422 0.206 0.599
+17 COH 2-Methyl-2-butanol (1) 0.3695 —0.5325 —1,5224 0.003224 13.98 —25.382 —25.929 —1.579 —0,459
+18 CH3COCH,, OH (x in 0..2) 3-Hydroxy-2-butanone (1) 0.9886 —0.2987 —0.3940 —0.002912 5.17 6.621 8.244 TAPE epee
+19 NCCHOH or NCCOH 2-Hydroxypropionitrile (1) —1.1810 0.2981 0.3414 —0.000516 0.68 4.833 0.000 al —0.149
+20 OK-CH,-COO (n in 0..2) Ethyl lactate (1) 0.1526 —0.2310 se vt sont soe waa es sev
+21 CH», (OH)CH,,(OH) (m,n in 0..2) Ethylene glycol (1) —0.0414 0.8854 1.9395 —-—0.004712 7.54 —1.051 —0.592 —6.611 —0.306
+22 CH (OH)CH,,(-) (m, 7, p in 0..2) 2-Amino-1-butanol (1) —0.5941 0.5082, 1.2342 0.002581 5.58 —1.506 —0.959 eR —0.041
+23. CH,,(NH3)CH,(NH3) (m, 1 in 0..2) Ethylenediamine (1) 0.3258 —0.0064  —3.3555 0.000726 20.82 0344 1443 2.384 1.575
+24 CH», (NH)CH,,(NH2) (mm, # in 1..2) Diethylenetriamine (1) —1.8403 0.2318 —1.1598 0.000157 —26.31 3.848 3.608 ESELE SEES
+25 H2NCOCH,, CH», CONH2 (m, n in 1..2) Butanediamide (1) 11.5351 eis eee shore Seer Me sob Meee Mees
+26 CH,,(NH,,)-COOH (m, n in 0.2) 1-Alanine (1) 12.3481 = 62.4740 0.002696 ‘17.78 314s 6598 7.032
+27 HOOC-CH,,-COOH (a in 1..2) Malonic acid (1) 0.9327 —0.1222 1.9595 —0.001479 12.46 —5.217 —6.058 eee 4.264
+28 HOOC-CH,,—CH,, COOH (n, m in 1..2) Succinic acid (1) 7.5057 SERS 0.7686 0.000090, 15.17 —4,281 —6.929 Eee 29.245
+29 HO-CH,-COOH (a in 1..2) 2-Hydroxyisobutyric acid (1) 0.4531 —0.4625 se * sone ees soe tees
+30 NH)—-CH,—-CH,)—-COOH (1, m in 1..2) B-Alanine (1) 1415938 vena sek eines fren wine
+31 CH3-O-CH,,-COOH (# in 1..2) Methoxyacetic acid (1) —2.3026 0.9198 0.4750 —0.001445 791 —2.678 —1.727 EP meet
+32 HS-CH-COOH 2-Mercaptopropionic acid (1) —2,1535 were wee vee rb weve veo vee Het
+33 HS-CH,,-CH,,-COOH (x, m in 1..2) 6-Thiolactic acid (1) —2.7514 CAPES —0.2697 0.000655 20.43 —7.376 7.292 SEE —3.623
+34 NC-CH,,—CH,,—CN (a, m in 1..2) 1,2-Dicyanoethane (1) 4.0747 1.8957 1.9699 0.002330 24.82 18.974 5.661 seb —8.038
+35 OH-CH,,-—CH,,-CN (#, 71 in 1..2) 3-Hydroxypropanenitrile (1) —().9493 1.3434 0.2311 = —0.001022 14.54 0.558 —3.906 HORERE —4.371
+36 HS—CH,,-CH,,-SH (#, m in 1..2) 1,2-Ethanedithiol (1) 0.2232 0.1815 DAT 0.001321 —10.31 6.728 0.794  —0.683 —0.931
+37 COO-CH,,-CH,,-OOC (a, m in 1..2) Ethylene glycol diacetate (1) —0.5946 0.3401 1.5418 -—0,.003385 —2.33 1.306 4.025 1.203 EEE
+38 OOC-CH,,-CH,, -COO (n, m in 1..2) Dimethylsuccinate (1) 2.5962 0.5794 ee see ee al “obs ial 2.303
+39 NC-CH,,—-CO0 (x in 1,.2) Methylcyanoacetate (1) —0.2509 1.2171 2.7051 —0,001999 —0.73 BEES SEAS SERS 1.100
+40 COCH, COO (n in 1..2) Methylacetoacetate (1) 0.6304 0.2427 0.7502 —0.000231 1.69 10.556 —7.261 wees ays
+Al CH»—O-CH, =CHy (m, n, p in 0..3) Ethyl viny ether (1) —0.0811 0.1399 0.2900 —0.000432 —4.54 —10.098 —9.411 0.372 3.169
+42 CH,, =CH,,—-F (m, a in 0..2) 1-Fluoro-1-propene (1) —0.2568 0.0591 eat PERSE Pet meter Sat Set 2.823
+43 CH), =CH,,—Br (m, n in 0..2) 1-Bromo-1-propene (1) —0.4329 —0.3192 epee —0.010021 2.63 14.470 17.014 wees 2.212.
+44 CH, =CH,-I (m, n in 0.2) 1-Iodo-1-propene (1) ARR —0.3486 ook ook ve SRS seas kes vere Ses see
+45 CH, =CH,,-Cl (m, 1 in 0..2) 1-Chloro-2-methylpropene (1) 0.0446 —0.0268 —0.0188 0.000152 2.80 8.207 9.715 al —0.480
+46 CII, =CII,-CN (mm, # in 0..2) Acrylonitrile (1) 0.1027 0.0653 —1.1249 0.000893 3.82 —8.304 —16.903 SSPE —0.405
 
 861
 
-S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
 58
 
 60
@@ -1582,13 +1581,13 @@ S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
 68
 69
 70
-Ai
+71
 72
 73
 74
 75
 76
-mM
+77
 78
 79
 80
@@ -1608,75 +1607,75 @@ mM
 94
 95
 
-CH,=CH,-COO-CH, (m, n, p in 0..3)
-CH, =CH,-CHO (j, nin 0..2)
-CH, =CH,-COOH (rm, nin 0..2)
-aC-CH,-X (n in 1..2) X: Halogen
-aC-CH,-NHy (nin 1..2;m in 0..2)
-aC-CH,-O- (n in 1..2)
-aC-CH,-OH (nin 1..2)
-aC-CH,-CN (n in 1..2)
-aC-CH,-CHO (nin 1..2)
-aC-CH,-SH (n in 1..2)
-aC-CH,-COOH (g in 1..2)
-aC-CH,-CO- (a in 1..2)
-aC-CH,-S- (n in 1..2)
-aC-CH,-O0C-H (ur in 1..2)
-aC-CH,—NO» (nin 1..2)
-aC-CH,-CONH; (pin 1..2)
-aC-CH,-00C (nin 1..2)
-aC-CH,-COO (nin 1..2)
-a€-S0,-0H
+CH,,=CH,,-COO-CH) (m, 1, p in 0..3)
+CH, =CH,—CHO (m, # in 0..2)
+CH, =CH,—COOH (m, n in 0..2)
+aC-CH,,—X (a in 1..2) X: Halogen
+aC—CH,,-NH,,, (# in 1..2; # in 0..2)
+aC—CH,,—O- (x in 1..2)
+aC—CH,,—OH (7 in 1..2)
+aC—CH,,-CN (1 in 1..2)
+aC—CH,,-CHO (7 in 1..2)
+aC-CH,,-SH (a in 1..2)
+aC—CH,,-COOH (v in 1..2)
+aC—CH,,-CO- (x in 1..2)
+aC-CH,,-S- (# in 1..2)
+aC-CH,,-OOC-H (x in 1..2)
+aC—CH,,—NO> (a in 1..2)
+aC—CH,,-CONHp (a in 1..2)
+aC-CH,,-OOC ( in 1..2)
+aC-CH,,-COO (a in 1..2)
+aC-SO2-OH
 
-a€-CH(CH3)
+aC—CH(CH3)y
 
-aC-C(CHs)s
+aC-C(CH3)3
 
-aC-CFs
+aC—CF3
 
-(CH, =CXcyclic)-CHO (n in 0..2)
-(CH, =C)kyc—COO-CH,, (1, m in 0..3)
-(CH, =C)y—CO- (nin 0..2)
-(CH, =C)eyc—CHg (2 in 0..2)
-(CH, =C)eye—CH> (n in 0..2)
-(CH, =C)eye—CN (nin 0..2)
+(CH,, =C)(cyclic)-CHO (n in 0..2)
+(CH, =C).y--COO-CH;, (7, m in 0..3)
+(CHy=C)cye-CO- (n in 0..2)
+(CHy =C)eye—CHs (a in 0..2)
+(CH, =C)eye—CH2 (7 in 0.2)
+(CHy =C)eye—CN (1 in 0..2)
 
-(CH, —Oeye CI (n in 0..2)
-CHçye-CH3
+(CHy =C)eye—Cl (n in 0..2)
+CHeye—CH3
 
-CILye-CIb
+CH ye-CIIy
 
-Chow-CH
+Ch,y.-CH
 
-Chese-C
+Chege-C
 
-Cheye-CH=CH, (nin 1..2)
-Choy-C=CH, (nin 1..2)
-Chçye-CI
+Cheye-CH=CH,, (7 in 1..2)
+Chyy.-C=CH,, (a in 1..2)
+Cheye-Cl
 
-Cheye-F
+Choye-F
 
-Choyc—-OH
+Ch.y.--OH
 
-Choye-NH>
+Choye-NH2
 
-Cheye-NH-CH, (x in 0..3)
-Ch.e-N-CH, (nin 0..3)
-Chese—-SH
+Cheye-NH-CH, (7 in 0..3)
+Choye-N-CH,, (# in 0..3)
+Choyo-SH
 
-Choye-CN
+Cheye-CN
 
-Choy—COOH
+Chey~-COOH
 
-Choyc-CO
+Chy--CO
 
-Che—NO»
+Choye-NO2
 
-Choyc—S—
+Choye-S—
 
-Choye-CHO
+Cheye—CHO
 
-Cho —O-
+Choy~-O-
 
 Ethyl Acrylate (1)
 Propenaldehyde (1)
@@ -1693,21 +1692,21 @@ Benzyl alcohol (1)
 
 Benzyl cyanide (1)
 
-Phenyl acetaldehyde (1)
+Phenyl] acetaldehyde (1)
 Phenyl methanethiol (1)
 Phenyl acetic acid (1)
 
-Phenyl acetone (1)
+Pheny! acetone (1)
 
 Benzyl methyl sulfide (1)
 Benzyl formate (1)
 
-Phenyl nitromethane (1)
+Pheny! nitromethane (1)
 Phenyl ethanamide (1)
 
 Benzyl acetate (1)
 
-Methyl phenyl acetate (1)
+Methyl phenyl] acetate (1)
 Benzenesulfonic acid (1)
 Cumene (1)
 tert-Butylbenzene (1)
@@ -1717,30 +1716,30 @@ Furfural (1)
 
 Methyl furanyrate (1)
 2-Acetylfuran (1)
-1,2-Dimethyleyclopentene (2)
+1,2-Dimethylcyclopentene (2)
 2-Ethylfuran (1)
 3-Cyanofuran (1)
 2-Chlorofuran (1)
 Methylcyclopentane (1)
-Ethylcyclohexanc (1)
+Ethylcyclohexane (1)
 Isopropylcyclopentane (1)
 tert-Butylcyclohexane (1)
-Vinyleyelopentane (1)
+Vinylcyclopentane (1)
 Limonene (1)
 
 Chloro cyclopentane (1)
 Fluoro cyclohexane (1)
 Cyclohexanol (1)
-Cyelohexylamine (1)
-N-methylcyclohexylaminc (1)
-NN-dimethylcyclohexanamine (1)
+Cyclohexylamine (1)
+N-methylcyclohexylamine (1)
+N,N-dimethylcyclohexanamine (1)
 Cyclohexanethiol (1)
-Cyanocyclopentane (1)
-Cyclopropanecarboxylic acid (1)
+Cyanocyclopentance (1)
+Cyclopropanecarboxylie acid (1)
 Methyl cyclohexyl ketone (1)
 Nitrocyclohexane (1)
 
-Mcethyl cyclopenty1 sulfide (1)
+Methyl cyclopentyl sulfide (1)
 Cyclohexanecarboxaldehyde (1)
 Methoxycyclohexane (1)
 
@@ -1760,9 +1759,9 @@ Methoxycyclohexane (1)
 —0.2363
 0.4506
 
-setor
+seo
 
-aotopt
+aloo.
 
 2.2421
 —0.6997
@@ -1786,7 +1785,7 @@ aotopt
 —0.8604
 —0.1326
 —0.4669
-—(0.3548
+—0.3548
 —0.1727
 
 0.6817
@@ -1802,14 +1801,14 @@ aotopt
 
 0.0370
 
-ate
+sekobaktie
 
 —0.3312
-ope
-—2.0822
+se
+—2,0822
 0.7743
 —0.8578
-—(0.8638
+—0.8638
 0.5076
 —0.3978
 
@@ -1819,11 +1818,11 @@ ope
 0.4537
 0.2590
 
-—0,0425
+—0.0425
 0.1005
 1.0587
 
-—0,0177
+—0.0177
 0.1702
 0.1584
 0.3094
@@ -1831,11 +1830,11 @@ ope
 0.2238
 0.5390
 
-—0.2197
+—0,2197
 0.0886
 0.0352
 
-pis
+REE
 0.0196
 0.0494
 
@@ -1847,7 +1846,7 @@ pis
 
 —0.0504
 
-—0,2474
+—0.2474
 
 —0.5736
 
@@ -1857,14 +1856,14 @@ pis
 0.1395
 0.1829
 
-—0.1192
+—0,1192
 
-—0,0455
+—0.0455
 0.2667
 
 —0.1899
 
-—0,3179
+—0.3179
 
 —0.3576
 
@@ -1878,387 +1877,387 @@ pis
 0.6540
 0.0043
 
-—0,2692
+—0.2692
 
 —0.2787
 
  
 
 —0.0880
-teen
+oR
 —1.7762
 2.2630
 1.4069
 0.2698
 —1.0107
 2.4950
-apro
+Re
 0.8705
-aeee
-xesptetom
-pers
+ORE
+okies
+EES
 1.7860
-setosdor
-pap
+Herbed
+RS
 1.1629
-aetpador
+eR
 
-xejonps
+se
 
 0.1565
 0.8016
-eps
+Se
 2.4070
-apa
+RRS
 
-eps
+Ce
 
 —0.2509
 —1.1019
 
-ses
+RR
 
-nes
+seo
 
 —0.1233
 0.3816
 0.1093
 
-sets
-tes
+soe
+ek
 
-—(0.2832
-ss
+—0.2832
+seks
 
-aetotoet
+eet
 
 0.8973
 —0.9610
 —2.0833
 
-deseo
+soe
 —0.6447
-epa
-aespa
-eps
+REE
+OR
+ORE
 
-eine
+seein:
 
-dela
+ae
 
  
 
-0000044
-cp
+9.000044
+wot
 —0.000763
 
 0.002464
-—0.000034
-—0,000417
+0.000034
+0.000417
 
 0.002944
-—0.000796
+0.000796
 
-seje
+seleoiek
 
-0000183
+9.000183
 
-cp
-mor
-sepee
+sc
+se
+suite
 
-0004195
+0.004195
 
-im
-smp
-—0.000384
-cp
-eps
-—001446
-—0.006495
-pe
+st
+tne
+0.000384
+sc
+ttre
+—0,001446
+0.006495
+sont
 —0,002650
-ce
+een
 
-opte
+sok
 
 —0.000624
 0.003921
 
-opte
+sok
 
-estepe
+saledalek:
 
 0.000779
 0.001694
 0.000124
 
-soa
-per
+oko
+speck
 
 0.002114
-sp
+she
 
-sesta
+sesetsiet
 
 0.004640
 0.000039
 —0.014535
 
-sete
+speedo
 
 —0.000199
 
-espe
+Se
 
  
 
-e
-
- 
-
-eso
-
- 
-
-espe
-
-0.21
-acesas
-4.36
-—4.88
-2.50
-—7,49
-—0.25
-—11,01
-aeee
-2.00
-aceso
-asp
-seem
-—3.40
-aeee
-term
--702
-astototea
-
-ps
-
-—204
-
-—5.70
-topa
-
-0.39
 a
 
-seprpã
+ 
+
+salokok
+
+ 
+
+salokok
+
+0.21
+eee
+4.36
+—4,88
+2.50
+—749
+—0.25
+—11.01
+ees
+2.00
+eto
+sees
+Hecke
+—3.40
+setae
+ees
+~7.02
+ieee
+
+seer
+
+—2.04
+
+—5.70
+seth
+
+0.39
+oki
+
+seek
 
 0.03
-—443
+—4.43
 
-sete
+sober
 
-sete
+seek
 
 2.79
 —2.95
 6.19
 
-res
-Ea
+rok
+weet
 
 —16.97
-ps
+secs
 
-dote
+edo
 
--—3
+—7.73
 —2.50
 —51.50
-aettotor
+Jobo
 —2.00
-oem
-aetotor
-eres
-et
-setor
-ep
+RE
+sob
+eH
+HR
+soto
+see
 
-eles
+soled
 
 —12.085
-ren
+voce
 10.194
 —8.081
-—2.044
+~2.044
 6.043
-ia
+wi
 25.157
-depor
+oeek
 16.725
-son
-roer
-een
+soc
+sot
+ste
 3.020
-io
-aa
-1.556
-over
+so
+sot
+1,556
+—
 
-esp
+sokaeie
 
 1.238
 0.354
-ot
+okie
 —6.438
-espia
+oko
 
-este
+sokioiek
 
 28.972
 —22,533
 
-sesteget
+sokioiok
 
-espeto
+soled
 
 4.178
 5.332
 6.084
 
-spa
-sopregot
+rokicke
+saeco
 6.768
-sopa
+sab
 
-estofos
+serkodoe
 
 —3.024
 2.046
 —11.965
-setor
+eb et
 —16.723
-sete
-sesta
+SHR
 
-se
-setor
-sesta
-et
+eb H
+SoHE
+see
+seobset
+see
 
-seseotek
+salodoek
 
 —12.509
-top
+seek
 9.090
 —8.570
 —3.447
 5.486
 
-toe
+saofaet:
 
 16.950
 
-enter
+eH
 7.568
-testotor
-setor
-setepesoe
+Fobioka
+sesokoe
+ses
 4.145
-aetototo
-eee
+doborie
+sees
 4.066
-resto
+somo
 
-esteje
+sokoka
 
-—0.751
+—{).751
 —0.192
-sort
+sektobk
 —12.517
-ra
+fokoke
 
-esgoto
+sokyeke
 
 24.560
 —12.044
 
-esgoto
+yokok
 
-sto
+yeledokek
 
 4.452
 4.428
 —4.128
 
-op
-teor
+sokioke
+seer
 10.390
-peça
+see
 
-estototote
+sflodokoie
 
 —8.050
 3.446
 14.531
-esto
+somo
 —7.569
-ese
-esto
-eres
-et
-sesta
-eee
+eR
+somo
+JERR
+se
+somo
+JeRERE
 
-sto
+ado
 
-esto
-teto
-ess
-esto
+se
+yerno
+yee
+ee
 4.608
-ess
-sete
-testo
-tes
-esto
-esto
-eso
-estes
-esse
-esotopote
-esto
-asas
-testo
-sesoooj
+yee
+ROH
+sero
+yemebk
+RH
+ern
+sorte
+sees
+sen
+yornlors
+sere.
+seach
+yomtob
+senior
 1.030
-esto
-eso
-esto
-Aestoe
-eso
-testo
-esto
+seo
+sek
+seo
+SERIO
+sek
+seo
+SeRIOE
 
-teor
+spose
 
-sjot
+exoiokok:
 
 0.096
 —0.428
 0.153
 
-set
+yeatokak:
 
  
 
  
 
-2134
+2.134
 —4.607
 
-Apto
+bobo
 
  
 
@@ -2268,116 +2267,116 @@ Apto
 
 —0.014
 
-fotopt
+ORO
 
 1.291
-eotopeoe
+settee
 —0.639
 0.969
 —2.754
 
-folk
+ORO
 
-eos
+week
 
 0.890
 —4.086
 
-tetos
-et
-et
-Atoloiot
-torto
-Attã
-Ade
+peek
+eke
+spose
+shirk
+seobk
+he
+seo
 
-stop
+pone
 
-—(1.270
+—0.270
 —0.878
-tor
+Hoek
 —1.670
-eso
+seek
 
-tos
+Rokk
 
 2.235
 0.961
 
-oro
-teto
+eaoeick
+somone
 0.033
 —1.137
 2.421
 
-spo
-fototoã
+aio.
+Roo
 
-topete
+seek
 
-espe
+eee
 
  
 
 0.328
 0.402
-et
-—(.878
-era
-eso
-topos
-teta
+eR
+—0.878
+RK
+RIOR
+weeleck
+tek
 
-adote
+steal.
 
  
 
-teto
+soloksiak:
 
-S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
 
 661
 Table 7 (Continued)
-Group Example Tu2j Tra; To; Po; Vo; Gn; Hp; Ho Hus2;
+Group Example Tm2j Te; Taj Pej Vea; Gp; Ap; Ay; Hius2;
 
-96 Choye-DOCH Cyclohexyl ester formic acid (1) err —0.2107 tops et aee ele err er afeto
+96 Chyyc-OOCH Cyclohexyl ester formic acid (1) FORE —0.2107 Sek go ese He OR ORE sedate ee SEES ae
 
-97 Chçye-CO0O Ethyl cyclobutyrate (1) opor 0.0926 aeee epaook teen ee opte esto aeee
+97 Cheye-COO Ethyl cyclobutyrate (1) SR RR 0.0926 sea bo ara SRA se AR So cea RAE sea Ag
 
-98 Cha-D0C Cyclohexyl acetate (1) —0.4666 — —0,4495 —0,3450 — —0000692 — —1203 4.358 —15.751 esa en
+98 Cheye-OOC Cyclohexyl acetate (1) —0.4666 = —0.4495 —0.3450 = —0,000692 — 12.03 4.358 —15.751 ee EEE
 
-99 Coy CHs 1,1-Dimethyl-cyclohexane (2) 0.1737 0.0722 0.1607 0.001235 1.95 0.107 0.238 0.808 —1.237
-00 CoCHo 1-Ethyl-1-methyl-cyclopentane (1) —1.9233 0.0319 0.1090 — —0.000610 -517 18.755 21.498 0.585 eras
-01 Cove-0H 1-Methyleyclopentanol (1) 07334 —0.6775 —21303 — —0.004683 — 440 — 18.970 —21.975 ret 0.235
-02 >Noy-CH5 N-methyl-2-pyrrolidone (1) —0.0383 0.0604 —0.0003 0.000058 hn es esa e Era
-03 >Noye-CH> N-ethylpyrrole (1) 1.0497 — 0.3080 aeee epaotok efe ee ottoRã eo aeee
-04 AROMRINGs!s? 2-Methyl-phenol (1), 2-Et-toluene (1) —0.6388 — —0,1590 —0,3161 0.000522 2.86 1,577 1.486 1.164 — 1.470
-05 — AROMRINGs!$ 3-Methyl-phenol (1), 3-Et-toluene (1) —0.6218 0.0217 —0.0693 0.001790 6.54 —1.037 0.294 —1.910 —1.059
-06 — AROMRINGs!s* 4-Methyl-phenol (1), 4-Et-toluene (1) 0.9840 0.1007 0.0803 0.000467 3.70 —0.709 0.384 0.331 1.244
-07 AROMRINGs!s?s 1,2,3-Trimethylbenzene (1) —0.2762 01647 10088 — —0.005598 —9,58 7.731 5.743 1.433 0.473
-08 | AROMRINGs!s?s* 1,2,4-Trihydroxybenzene (1) —0.3689 — —0.1387 0.0908 0.000255 —2.05 —2,.767 —0.449 0.313 —0.302
-09 — AROMRINGs! ss 3,5-Diethyltoluene (1) —0.3841 —0.1314 —0.6412 0.004090 -7.67 —2.148 —7.538 —0.117 —2.530
-10 AROMRINGs!Sss!  3-Hthyl-1,2,4-trimethylbenzene (1) 1.772, (1.2745 21116  —0.007612 —704 14.226 12.710 PRE —1.736
-11 AROMRINGs!s?s!sº 1,2,3,5-Tetramelhylbenzene (1) 0.4553 0.1645 0.9353  —0.001811 —0.04 4.926 5.220 se —2,246
-12 AROMRINGs!s?stg> 1,2,4,5-Tetramethylbenzene (1) 2.0561 0.0754 0.6241 —0.000500 —0.04 —0.474 —1.340 pit 8.034
-13 — PYRIDINES 2-Methylpyridine (1) —0.5769 —0.1196 —1.0256 0.007006 8.68 —9,713 —9.644 —1.683 —0.786
-14 PYRIDINES 3-Methylpyridine (1) —0,2556 0.0494 0.5784 0.007006 8.68 —2,523 —2,446 0.277 3.671
-15 — PYRIDINES* 4-Methylpyridine (1) 1.6282 0.1344 0.6595 0.001283 14.28 —4.703 —6.466 0.397 5.975
-16 | PYRIDINESS 2,3-Dimethylpyridine (1) 0.1341 0.0032 ac Ea td Er ERA 0.939 Er
-17 PYRIDINES?sS* 2,4-Dimethylpyridine (1) —1.6848 — —0.0817 Ra ER PR ee Re —1.269 Rs
-18 — PYRIDINES?s” 2,5-Dimethylpyridine (1) —0.9802 — —0.1564 eras Eu Eras ser esta —1.719 res
-19 — PYRIDINES?sº 2,6-Dimethylpyridine (1) 0.3018 — —0.5176 —2.2773 0.008029 50.26 —16.570 —17.778 —3.419 —1.487
-20 — PYRIDINES?s* 3,4-Dimethylpyridine (1) 0.1018 0.5477 eres nor EErEe srhsr rms 1.742 asse
-21 PYRIDINES's* 3,5-Dimethylpyridine (1) 0.2811 0.3533 As FE FERE so PR 0.572
-22 PYRIDINES?s'sº 2,3,6-Trimethylpyridine (1) —0.3189 —0.3888 ne et pre pre eee —2.744
-
- 
+99 Coye-CH 1,1-Dimethyl-cyclohexane (2) 0.1737 0.0722 0.1607 0.001235 1.95 0.107 0.238 0.808 1.237
+00 Ceye-CH2 1-Ethyl-1-methyl-cyclopentane (1) —1.9233 0.0319 0.1090 = —0.000610 —5.17 18.755 21.498 0.585 Hea
+01 Ceye-OH 1-Methyleyclopentanol (1) 0.7334 = —0.6775 —2.1303  —0,004683 —14.40 —18.970 —21.975 eee 0.235
+02 >Neye-CHs N-methyl-2-pyrrolidone (1) —0.0383 0.0604 —0.0003 0.000058 sehen eee Hee ia ene
+03 >Neye-CH2, N-ethylpyrrole (1) 1.0497 —0.3080 sea a ara SRA sR IR Sto Sa RE sea AR
+04 = AROMRINGs!s* 2-Methyl-phenol (1), 2-Et-toluene (1) —0.6388 —0,1590 —0.3161 0.000522 2.86 1.577 1.486 1.164 —1.470
+05  AROMRINGs!s? 3-Methyl-phenol (1), 3-Et-toluene (1) —0.6218 0.0217 —0.0693 0.001790 6.54 —1.037 0.294 —1.910 —1.059
+06 AROMRINGs's* 4-Methyl-phenol (1), 4-Et-toluene (1) 0.9840 0.1007 0.0803 0.000467 3.70 —0.709 0.384 0.331 1.244
+07 AROMRINGs!s?s* 1,2,3-Trimethylbenzene (1) —0.2762  —0,1647 1.0088  —0,005598 —9,58 7.731 5.743 1.433 0.473
+08 = AROMRINGs!s?s* 1,2,4-Trihydroxybenzene (1) —0.3689 —0.1387 0.0908 0.000255 —2.05 —2.767 —0.449 0.313 —0.302
+09 AROMRINGs!'s?s° 3,5-Diethyltoluene (1) —0.3841 —0.1314 —0.6412 0.004090 7.67 —2.148 —7.538 —0.117 —2.530
+10. AROMRINGs!s?s°s¢ —_ 3-Ethyl-1,2,4-trimethylbenzene (1) 1.7722 0.2745 2.1116  —0.007612 —7.04 14.226 12.710 eee 1.736
+11 AROMRINGs!s?s*s° 1,2,3,5-Tetramethylbenzene (1) 0.4553 0.1645 0.9353  —0.001811 —0.04 4.926 5.220 See —2.246
+12. AROMRINGs's’s‘s> 1,2,4,5-Tetramethylbenzene (1) 2.0561 0.0754 0.6241 —0.000500 —0.04 —0.474 —1.340 “hielo 8.034
+13. =PYRIDINEs?” 2-Methylpyridine (1) —0.5769  —0.1196 —1.0256 0.007006 8.68 —9.713 —9.644 —1.683 —0.786
+14. PYRIDINEs? 3-Methylpyridine (1) —0,2556 0.0494 0.5784 0.007006 8.68 —2,523 —2.446 0.277 3.671
+15 PYRIDINEs* 4-Methylpyridine (1) 1.6282 0.1344 0.6595 0.001283 14.28 —4.703 —6.466 0.397 5.975
+16 + PYRIDINEs?s* 2,3-Dimethylpyridine (1) 0.1341 0.0032 Hs Erte ERP ce or 0.939 cco
+17. PYRIDINEs?s* 2,4-Dimethylpyridine (1) —1.6848  —0.0817 RR ERE REE EERE eee —1.269 ai
+18  PYRIDINEs?s* 2,5-Dimethylpyridine (1) —0.9802  —0.1564 ete ero eh ahet eee —1.719 eet
+19 PYRIDINEs’s® 2,6-Dimethylpyridine (1) 0.3018 —0.5176 —2.2773 0.008029 50.26 —16.570 17.778 —3.419 —1.487
+20 PYRIDINEs?s* 3,4-Dimethylpyridine (1) 0.1018 0.5477 eae sree eHret shine rere 1.742 arier
+21. PYRIDINEs*s* 3,5-Dimethylpyridine (1) 0.2811 0.3533 ee PE aad aoe iad 0.572
+22. PYRIDINEs?s*s° 2,3,6-Trimethylpyridine (1) —0.3189 —0.3888 ene eee wee sree vee —2.744
 
  
 
-00c
+ 
 
-S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
+00¢
+
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
 Table 8
 Third-order groups and their contributions along with sample assignments
 
@@ -2429,102 +2428,102 @@ Third-order groups and their contributions along with sample assignments
 
   
 
-Group Example Tok Thak Tok Peak Vos Ge Hex Hrussk
+Group Example Tink Th3k Tax Por Vist Gee Fegx Fas3x
 
-1 HOOC(CH,),-COOH (m >2, nin 0..2) 1,5-Pentanedioic acid (1) —1.5257 1.6498 —1.6986 0.001544  —3.72 —4.708 —6.572  —7.583
-2 NH, <CH,)-COOH (m >2, nin 0.2) 4-Aminobutyric acid (1) Li22A toa tt tits dos Portão Port tt
-3. NH+(CH,) OH (m>2,nin 0.2) 4-Aminobutanol (1) 0.7732 1.0750 0.4950 0.000728  —23.74 3.079 4171 —4.840
-4. OH(CH,),-OH (mn >2,nin 0..2) 1,9-Nonanediol (1) 0.6674 0.7193 0.1725  —0.000327  —0.84 7.536 541º  —0.272
-5 OH(CH,;),-O(CH,)—OH (m, k> 0; p, nin 0.2) Dipropylene glycol (1) —0.1073 11867 6.6872 0.001937 1,44 —8.397 —8.651 1.661
-6 | OH(CH,)-S(CH,)—OH (m, k > 0; p, nin 0..2) 2,2'-Diethyl-dihydroxy sulfide (1) —1.3891 Pr 2.6769 0.003792  —1.62 10.194 8.164  —3.479
-7º OH(CH,)-NHx(CH,)-OH (m, k> 0; p, n,x in 0..2) Dicthanolamine (1) —0.0781 0.2991 sn 0.003254 —0.69 1.662 1.753 0.301
-8 | CH,-O(CH,)-OH (m > 2; 11, pin 0..2) Butoxypropanol (1) te —0,4605 +ostat tia topos + dor +rtiet
-9 NH+(CH)—NH; (m >2; nin 0..2) 1,5-Diaminopentane (1) —0.0604 0.0060  —4.3195 0.006734 6.69 4.100 0.371 5.666
-10 NH;+L(CH,),—NHo (m > 2; Kin 0.1; nin 0..2) NN-dimethylpropylenediamine (1) —1.1888  —0.1819 dee tona " Pos Fo
+1  HOOC-(CH, ),,-COOH (m > 2, n in 0..2) 1,5-Pentanedioic acid (1) —1.5257 1.6498 —1.6986 0.001544 = —3.72 —4.708 —6.572  —7.583
+2 NH,-~(CH).—COOH (m > 2, 2 in 0..2) 4-Aminobutyric acid (1) LA2271 fer eee eke eee Hebe eee wees
+3 NHo-(CHy),—-OH (m > 2, 2 in 0..2) 4-Aminobutanol (1) 0.7732 1.0750 0.4950 0.000728 —23.74 3.079 4.171 4.840
+4 OH-(CH,)i.—-OH (nm > 2, n in 0..2) 1,9-Nonanediol (1) 0.6674 0.7193 0.1725 —0.000327 —0.84 7.536 5.411 —0.272
+3 OH-(CH,)x—O-(CH,, )m—-OH (7m, k > 0; p, ain 0..2) Dipropylene glycol (1) —0.1073 1.1867 6.6872 0.001937 1.44 —8.397 —8.651 1.661
+6  OH-~(CH,).-S+CHn)n—OH (im, k > 0; p, 1 in 0..2) 2,2'-Diethyl-dihydroxy sulfide (1) —1.3891 “ene 2.6769 0.003792 = —1.62 10.194 8.164 —3.479
+7  OH-(CHy)x-NHx{CH) )m—-OH (m, k > 0; p, 2, x in 0..2) Dicthanolamine (1) —0.0781 0.2991 ae 0.003254 = —-0.69 1.662 1.753 0.301
+8 = CHy,—O-~(CH,)n—-OH (1 > 2; 1, p in 0..2) Butoxypropanol (1) wees 0.4605 eke Heke eee: eee week eek
+9 — NHo-(CHy)m—-NHp (7 > 2; 2 in 0..2) 1,5-Diaminopentane (1) —0.0604 0.0060 —4.3195 0.006734 6.69 4.100 0.371 5.666
+10  NH,-+~CH),)a—NH2 (m > 2; k in 0..1; 7 in 0.2) N,N-dimethylpropylenediamine (1) —1.1888  —0.1819 heres ees * an an
 
-11 SH«CH),-SH (m > 2; nin 0..2) 1,5-Pentanedithiol (1) 0.6669 0.4516 Rasta ERA A dia
+11 SHHCH,).-SH (m > 2; 2 in 0..2) 1,5-Pentanedithiol (1) 0.6669 0.4516 SER ASE seth sae
 
-12 NC(CH,)—CN (m > 2) Glutaronitrile (1) —(1.3798 1.3440 0.0834  —0.011090 —36.89 —7.035 7.782
+12, NC-(CHy).—CN (m > 2) Glutaronitrile (1) —0.3798 1.3440 0.0834 —0.011090 —36.89 —7.035 7.782
 
-13 COO(CH,),—00C (m > 2; nin 0,.2) Glyceryl tridodecanoate (1) —2.6542 teto ted toteieã Feito Ported otted
+13. COO-~(CH,,),-OOC (m > 2; 2 in Q,.2) Glyceryl] tridodecanoate (1) —2.6542 eee eee eR Bees eRe al
 
-14 aC+(CH,=CHy ey (fused rings) (1, m in 0..1) Indene (1), Acenaphtylene (2) 0.2479 —Q3741  —0.0185 0.000851 —8.87 —1.601 2.689
+14 aC+{(CH,=CH»n )cye (fused rings) (, m in 0.1) Indene (1), Acenaphtylene (2) 0.2479 —0.3741 —0.0185 0.000851 —8.87 —1.601 2.689
 
-15  aC-aC (different rings) Biphenylene (2), Biphenyl (1) 1.1395 —0.4961 6.1894  —0.040100 —26.26 —4.459 —4.558
+15 aC-aC (different rings) Biphenylene (2), Biphenyl (1) 1.1395 —0.4961 6.1894. —0.040100 —26.26 —4.459 —4.558
 
-16  aC-CH, ey (different rings) (x in 0..1) Cyclohexylbenzene (1) 00570 —04574 —O2474  —0.005826 —8.55 —5.267 —5.914
+16 aC—CHp,cye (different rings) (7 in 0..1) Cyclohexylbenzene (1) 0.0570 —0.4574 —0.2474 —0.005826 —8.55 —5,267 —5,914
 
-17. aC-CH, cy (fused rings) (n in 0..1) Tetralin (2), Indane (2) —0.5640  —0.1736 0.5060 —0.003746 —11.56 —4.203 —4.863
+17) aC—-CHh eye (fused rings) (# in 0..1) Tetralin (2), Indane (2) —0.5640 —0.1736 0.5060 —0.003746 —11.56 —4.203 —4.863
 
-18  aC+(CH,)a-aC (different rings) (m > 1; nin 0..2) Bibenzyl (1) 1,9902 0.3138 3.0321 0.003007 1318 0.084
+18  aC-+(CH,)n—aC (different rings) (m > 1; n in 0..2) Bibenzyl (1) 1.9902 0.3138 3.0321 0.003007 1.318 0.084
 
-19  aC+(CH, )a—CHe,e (dificrent rings) Gn > 0; nin 0..2) 1-Cyclopenty]-3-phenylpropane (1) * 0.5928 torta teto Petite Pete
+19 aC+{CHy)n—CHey- (different rings) (m > Q; 1 in 0..2) 1-Cyclopentyl-3-phenylpropane (1) * 0.5928 eee eee Heck Hele
 
-20 CHy-Cho (different rings) Cyclohexyleyclohexane (1) 0.5460 0.4387 2.1761 0.002745 7.72 —67.517 —66.870
+20 CHeye—Choy. (different rings) Cyclohexyleyclohexane (1) 0.5460 0.4387 2.1761 0.002745 7.72 —67.517  —66.870
 
-21 CHy((CH,)m—CHcyc (different rings) (m > 0; nin 0..2) 1,2-Dicyclohexylethane (1) 0.4497 0.5632 tod tod tom orar Port torta
-22 CHmultiring Hexahydroindan (2), Decalin (2) 0.6647 0.1415 0.4963  —0.000985 —3.33 Prot Pior 0.223
-23 Cmultiring Spiropentane (1) 0.0792 toi tostado titã dade ditado drtato +ostaet
-24. aC€-CH,-aC (different rings) (m in 0..2) DiphenyImethane (1) 1.6457 0.2391 QU7A  —0002673 — —4,67 ARIDO 0.866  —0.958
-25 aC€(CH,=CH,)-aC (different rings) (m, nin 0..2) 1,2-Diphenylethylene (1) 0.9608 0.7192 0.7039 —0.004661 14.31 —0.702 —2.291 3.275
-26 (CH =Chyc-CH=CH(C=CH, yo (different rings) 1,2-Furanyl ethene (1) 16.2235 te estende peace eee poder eat +
-27 (CH, =Cye-CH,(C=CH,)eye (different rings) Difiranyl methane (1) 16.8558 eee Et nam nem nur are eme
-28  a€-CO-aC (different rings) Benzophenone (1) — 10394 LOITI O —0.2678  —O0001837 0 —7.05 1125 TAOS  —4.091
-29 aC-CH,-CO-aC (different rings) (m in 0..2) Benzyl phenone (1) —0.4486 0.9674 er id de ent NE see
-30  a€-CO(C=CHy ye (different rings) (n in 0..1) Phenyl-2-furanyl-methanone (1) —(.1376 0.1126 testa rs ter teto detetet et
-31 aCCO-CO- aC (different rings) Diphenylethanedione (1) 0.4361 0.9317 sa asteses ses anta Wes 3,687
-32 a€COçc (fused rings) Phenolphthalein (1) 3.6847 0.5031 dee tor dos Pot Pet 2.047
-33 a€-CO-(CH,),—CO-aC (different rings) (m > 0; nin 0.2) 1,4-Diphenyl-1,4-butanedione (1) 4.9038 at td tri dpi Port Ported ER
-34 a€CO-CH, cy (different rings) (x in 0..1) Cyclohexyl phenyl methanone (1) —7.0038 ten EM dita teto RA E ici
-35  aC-CO-NH, aC (different rings) (n in 0..1) N-phenyl benzamide (1) 5.9653 tt teste tt ia ot dot 2.510
-36 aC-NH,CONH, aC (different rings) (a, m in 0..1) N,N"-diphenylurea (1) 1,5629 res as aaa sm esa did 0.018
-37 a€CO-Nac (different rings) N-phenonyl-piperidine (1) —9.1856 too + toi fosses Ps Posta tos
-38 aCSoye (fused rings) Dibenzothiophene (2) 0.2612 0.2242 3.5541 0.004600 12.60 8.333 9212 —0.784
-39 aC€-S-aC (different rings) Diphenyl sulfide (1) —1.8403 0.0185 rt ria ” ot ot +
-40  a€-PO,-aC (different rings) (n in 0..4) Triphenylphosphate (3) 0.0393 pe a dd oe ener e sd
-41 aC-SO,-aC (different rings) (n in 1..4) Diphenyl sulfone (1) 0.9514 —0.0850 et teto Potim otottet vem 2,485
-42 aC-NH, cyc (fuscd rings) (n in 0,.1) Carbazole (2) 3.4983 1.1457 3.5541 0.017201 0.44 —2.221  —16.080 0.196
-43  aC-NH-aC (diftcrent rings) Diphenylamine (1) —0.3048 0.5768 0.9519 0.008484 1,42 —0.596 —1.994 1.934
-44 aC (C-N)y (different rings) Phenyl-3-pyrazole (1) —1.3060  —0.5335 ' tons tos Ps Fo tos
-45 aC(N=CI ye (fused rings) (1 in 0,.1) Benzoxazole (1) —4.9289  —5.2736 AA dt REA Pes —(),599
-46  aCA(CI,—Nyc (fused rings) (x in 0..1) Benzoisoxazole (1) —10.1007 tt test tt ted dot ton
+21 CHeye-(CHy mm -CHeye (different rings) (m > 0; 1 in 0..2) 1,2-Dicyclohexylethane (1) 0.4497 0.5632 wee were Hees eee eee hee
+22 CH multiring Hexahydroindan (2), Decalin (2) 0.6647 0.1415 0.4963 —0.000985 —3,33 Hen iek Hele 0.223
+23 Cmultiring Spiropentane (1) 0.0792 eRe eee Meee eRe eR eke eke
+24  aC-CH,,—aC (different rings) (m in 0..2) Diphenylmethane (1) 0.6457 0.2391 0.1174 —0.002673 —4.67 A729 0.866 —0.958
+25 aC-(CH,,=CH,,)-aC (different rings) Gm, n in 0..2) 1,2-Diphenylethylene (1) 0.9608 0.7192 0.7039 =—0.004661 14.31 —0.702 —2,291 3.275
+26 (CHa =C)eye-CH=CH(C=CH, )cye (different rings) 1,2-Furany! ethene (1) 16.2235 eee seek Hee eee Hee ‘ee eis
+27 (CH =C)cye-CHp-(C=CH, eye (different rings) Difuranyl methane (1) 16.8558 ants ane mane oe area Pant arte
+28 aC-CO-aC (different rings) Benzophenone (1) —1.0394 1.0171 —0.2678 —0.001837 —7.05 11,125 7.108 =—4,091
+29 aC-CH,,—CO-aC (different rings) (m in 0..2) Benzyl phenone (1) —0.4486 0.9674 ee TREE bal Sere Heart ee
+30 = aC-CO-(C=CH)y eye (different rings) (n in 0..1) Phenyl-2-furanyl-methanone (1) —0.1376 0.1126 eee eke ae Horie eee ees
+31 aC-CO-CO-aC (different rings) Diphenylethanedione (1) 0.4361 0.9317 See id eee cid wens 3.687
+32 aC-COcye (fused rings) Phenolphthalein (1) 3.6847 0.5031 eee eee ees eee ee 2.047
+33 aC-CO-(CH, ),-CO-aC (different rings) (m > 0; in 0.2) — 1,4-Diphenyl-1,4-bulanedione (1) 4,9038 eee eee HERE “frees eee eee a
+34 aC-CO-CH,, cye (different rings) (a in 0..1) Cyclohexyl phenyl methanone (1) —7.0038 ee a el ee ee “Gere ie
+35 aC-CO-NH,,-aC (different rings) (# in 0..1) N-phenyl benzamide (1) 5.9653 “ene eee “fees al ae eee 2.510
+36 aC-NH,,CONH,,—aC (different rings) (#, m in 0..1) N,N‘ -diphenylurea (1) 1.5629 ret Ves ks ee Hees rt 0.018
+37 aC-CO-Neye (different rings) N-phenony|-piperidine (1) —9.1856 “ese ere eee fee Here aa eer
+38  aC-Scye (fused rings) Dibonzothiophene (2) 0.2612 0.2242 3.5541 0.004600 12.60 8.333 9.212 —0.784
+39 aC-S-aC (different rings) Diphenyl sulfide (1) —1.8403 0.0185 wes wee * web we eo
+40 aC-PO, aC (different rings) (# in 0..4) Triphenylphosphate (3) 0.0393 ee Pees Te eee ees meee ee
+41 aC-SO,—aC (different rings) (n in 1..4) Diphenyl sulfone (1) 0.9514 —0.0850 sek aia “ees etek week 2485
+42 aC-NH,, cye (fused rings) (7 in 0..1) Carbazole (2) 3.4983 1.1457 3.5541 0.017201 0.44 —2,221 —16.080 0.196
+43 aC-NH-aC (different rings) Diphenylamine (1) —0.3048 0.5768 0.9519 0.008484 1,42 —0.596 —1.994 1.934
+44 aC-(C=N)y¢ (different rings) Phenyl-3-pyrazole (1) —1.3060 —0.5335 , a pees ere Hee eee
+45 aC-(N=CTI), eye (fused rings) (7 in 0..1) Benzoxazole (1) —4.9289  —5,2736 — or as meek 0,599
+46 aC-(CII,=N)cyc (fused rings) (7 in 0..1) Benzoisoxazole (1) —10.1007 “eee ees Heese ae a “eebes
 
  
 
-S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
 
-TOC
+107
 Table 8 (Continued)
-Group Example Tm3k Tok Toak Peak Vez Gar Hesk Htussk
+Group Example Tn3k Th3x T 3 Po3k Vo3k Geax Asx Ftus3k
 
-47 aC-O-CH,-aC (different rings) (nr in 0..2) Benzyl phenyl ether (1) 1.0834 0.6571 treta rep pego dd ret ae
-48 — aC-O-aC (different rings) Diphenyl cther (1) —(0.4803 —(.8252 —0.9785 0.001162 —2.63 2.668 —S.074 1.193
-49 aC-CH,-O-CH,,-aC (different rings) (1. m in 0..2) Benzyl ether (1) —3.2676 0.2790 —1.4002 —0.004716 28.42 —4.229 —2.303 —3.971
-50 al-Oçe (fused rings) Benzoxazole (1) —0.3545 —(.6848 trt test teria tre dessa — 1153
-51 AROMFUSED[2] Naphthalene (2) 0.2825 0.0441 —1.0095 —0.001332 —6.88 1.993 1.904 0.694
-52  AROMFUSED|2]s! 1-Methylnaphtalene (1) —1.2836 —0.1666 0.1605 —0.002030 —3.17 —2.940 —2.274 —3.699
-53 | AROMFUSED[2]s” 2,1-Dimethylnaphtalene (2) 0.3378 —0.2692 —0.6765 — —0.002436 —3.8 =L.878 —1.316 2.037
-54 AROMFUSED/[2]s"s” 2,3-Dimethylnaphtalene (1) 8941 —0.2807 eta e det tee 2.150
-55 AROMFUSED]2]s!s* 1,4-DimethyInaphtalene (1) —2.7585 —0.3294 Epa REA AS ent Sis
-56 —AROMFUSED[2]s!s2 1,2-Dimethylnaphtalene (1) -3.0362  —0.2931 tensa aaa aaa tra essa
+47 aC—O-CH,,-aC (different rings) (# in 0..2) Benzyl phenyl ether (1) 1.0834 0.6571 et Pere pa ert eet ie
+48  aC-O-aC (different rings) Diphenyl ether (1) —0.4803 —0.8252  —0.9785 0.001162 —2.63 2.668 —5.074 1.193
+49 aC—CH,,—O-CH,,—aC (different rings) (#, m in 0..2) Benzyl ether (1) —3.2676 0.2790 — 1.4002 —0.004716 28.42 —4,.229 —2.303 —3.971
+50 aC-Ogye (fused rings) Benzoxazole (1) —0.3545 —0.6848 Ree ee ees eee ARES = 1,153
+51 AROMFUSED[?2] Naphthalene (2) 0.2825 0.0441 —1.0095 —0.001332 —6.88 1.993 1.904 0.694
+52 AROMFUSED|2Js! 1-Methylnaphtalene (1) —1.2836 —0.1666 0.1605 —0.002030 —3.17 —2.940 —2.274 —3.699
+53. AROMFUSED[?2]s” 2,7-Dimethylnaphtalene (2) 0.3378  —0.2692 —0.6765  —0.002436 —3.8 ~1873 —1.316 2.037
+54. AROMFUSED[2]ss* 2,3-Dimethylnaphtalene (1) 8941 —0.2807 ie eh eee “eset 2.150
+55 AROMEUSED[2]s's* 1,4-Dimethylnaphtalene (1} —2.7585 —0.3294 LEAS SESE AEE ene aA
+56 AROMFUSED[2]s's? 1,2-Dimethylnaphtalene (1) —3.0362  —0.2931 sen setae setae te ete
 
-57 AROMFUSED|2]s's” 1,3-Dimethylnaphtalene (1) —3.2228 —0.3360 to ds sda teseade desta Poets
-s8 —AROMFUSED[3] Phenalene (3), Pyrene (2) .6600 0.0402  —1.0430 0.004695 35.21 3.896 5.819
+57 AROMFUSED|2|s's* 1,3-Dimethylnaphtalene (1} —3.2228 —0.3360 ad eee Hees a see sees
+58 AROMFUSED{3] Phenalene (3), Pyrene (2) .6600 0.0402 1.0430 0.004695 35.21 3.896 5.819
 
 59 AROMFUSED|4a] Anthracene (1) 7.0402 1.0466 3.3011 0.015244 6.96 13.843 11.387
 
-60 — AROMFUSED[4a]s! 9-Methylanthracene (1) —3.3463  —7.8521 a ici amBaa srs apar
+60 = AROMFUSED[4a]s! 9-Methylanthracene (1) —3.3463 = —7.8521 et re aus Pt ee
 
-61  AROMFUSED[da]s!s* 9,10-Dimethylanthracene (1) 6.8373 tod teto dest dest otete dei
+61 AROMFUSED[4a]s's* 9,10-Dimethylanthracene (1) 6.8373 el iia “eee ia eee eee
 
-62 | AROMFUSED[4p] Phenanthrene (1), Pyrene (2) —1.5856 0.9126 2.8885 0.007280  —24,02 —16.040 —19.089 —3417
-63 — AROMFUSED[4p]s*s* 9,10-Dimethylphenanthrene (1) 2.0821 otite teta torta teto toe pd teto
+62 AROMFUSED[4p] Phenanthrene (1), Pyrene (2) —1.5856 0.9126 2.8885 0.007280 —24.02 —16.040 —19.089 —3.417
+63 AROMFUSED[4p]s*s* 9,10-Dimethylphenanthrene (1) 2.0821 Hewes eee seen “eee ene ees “eee
 64 PYRIDINE.FUSED[2] Quinoline (1) —4.4725 —0.9432 1.1251 —0.005369 63.29 8.688 13.586 —4.967
-65 PYRIDINE.FUSED[2-iso] Isoquinoline (1) —2.5898 —(0.5844 3.9241 —0.011207 —2.A —S1I12 —0.314 —2.587
-66 PYRIDINE.FUSED[4] Acridine (1) .0358 0.1733 7.7134 —0.001275 — 12.04 20.073 15.786 —1.365
+65 PYRIDINE.FUSED[2-iso] Tsoquinoline (1) —2.5898 —0.5844 3.9241 —0.011207 —2.71 —5.112 —0.314 —2.587
+66 PYRIDINE.FUSED|4] Acridine (1) 0358 0.1733 7.7134 —0.001275 —12.04 20.073 15.786 —1.365
 
  
 
-toc
+707
 
-S0T-ESI (I00T) PSITEST DIAGNDA 9SDU PINA /14DO “Y OA DW 'f
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
