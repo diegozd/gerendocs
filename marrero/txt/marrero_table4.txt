@@ -1,0 +1,575 @@
+56
+57
+
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+
+aC-SH
+
+—SH (except as above)
+CHS
+
+CH2S
+
+CHS
+
+cs
+
+aC-S-
+
+so
+
+SO,
+
+SO3 (sulfite)
+SO3 (sulfonate)
+SOz (sulfate)
+aC-SO
+
+aC-SO2
+
+PH (phosphine)
+P (phosphine)
+POs (phosphite)
+PHO; (phosphonate)
+PO3 (phosphonate)
+PHO, (phosphate)
+PO, (phosphate)
+aC-PO4
+
+aC-P
+
+COs (carbonate)
+C:H30
+
+C:H20
+
+C20
+
+CHz (cyclic)
+
+CH (cyclic)
+
+C (cyclic)
+CH=CH (cyclic)
+CH=C (cyclic)
+C=C (cyclic)
+CH2=C (cyclic)
+NH (cyclic)
+
+N (cyclic)
+CHEN (cyclic)
+C=N (cyclic)
+
+O (cyclic)
+
+CO (cyclic)
+
+S (cyclic)
+
+SOz (cyclic)
+
+Benzenethiol (1)
+Cyclohexanethiol (1)
+Dimethylsulfide (1)
+Diethylsulfide (1)
+Diisopropylsulfide (1)
+di-tert-Butylsulfide (1)
+Phenyl methyl sulfide (1)
+Dimethyl sulfoxide (1)
+Dimethyl sulfone (1)
+Dimethyl sulfite (1)
+Dimethyl sulfonate (1)
+Dimethyl sulfate (1)
+Phenyl methyl! sulfoxide (1)
+Diphenyl sulfone (1)
+Dimethylphosphine (1)
+Trimethylphosphine (1)
+Triethylphosphite (1)
+Dimethylphosphonate (1)
+Trimethylphosphonate (1)
+Diethylphosphate (1)
+‘Lrimethylphosphate (1)
+Triphenylphosphate (1)
+Triphenylphosphine (1)
+Dicthylearbonate (1)
+
+Ethyl oxirane (1)
+2,2-Dimethyl oxirane (1)
+Trimethyl oxirane (1)
+Cyclopentane (5)
+Mcthyleyclopentane (1)
+1,1-Dimethylcyclohexane (1)
+Cyclobutene (1)
+1-Methylcyclopentene (1)
+1,2-Dimethylcyclopentene (1)
+Methylene cyclohexane (1)
+Cyclopentimine (1)
+N-methylpyrrolidine (1)
+Imidazole (1)
+2-Methyl-1H-imidazole (1)
+Tetrahydropyran (1)
+Cyclobutanone (1)
+2-Methy!-thiophene (1)
+Cyclobutadiene sulfone (1)
+
+ 
+
+ 
+
+2.8464
+0.9600
+1.7150
+1.0063
+0.7892
+1.1170
+0.9646
+5.3663
+7.0778
+sealokecak
+5.8426
+3.6976
+3.9911
+5.2948
+
+sec
+eee
+
+1.0306
+sekdeck
+
+sak
+
+2.7461
+2.0330
+—1.7840
+0.2337
+3.6593
+1.3135
+
+ee
+
+sainkocks
+
+0.5699
+0.0335
+0.1695
+1.1936
+0.4344
+0.3048
+0.2220
+3.4814
+0.6040
+5.5779
+6.6382
+1.3828
+3.2119
+1.6023
+6.1006
+
+3.2675
+2.3323
+2.9892
+2.6524
+2.0965
+1.6412
+2.9731
+6.2796
+7.0976
+3.9199
+6.7785
+5.5627
+6.1185
+8.4333
+2.0536
+1.0984
+2.7900
+5.6433
+4.5468
+5.1567
+3.7657
+2.3522
+2.9272
+2.8847
+2.8451
+2.6124
+2.2036
+0.8234
+0.5946
+0.0386
+1.5985
+1.2529
+1.1975
+1.5109
+2.1634
+1.6541
+6.5230
+6.6710
+1.0245
+2.8793
+2.3256
+
+BARRA
+
+9.5115
+7.7987
+6.9733
+6.4871
+
+okt
+Derk
+
+eke
+
+19.8953
+17.2586
+8.6910
+seoick
+18.9366
+seek
+seek
+Heb
+ebook
+seeite
+spk
+16.9914
+see
+38.6148
+6.6804
+6.6418
+6.0159
+sete
+1.8815
+1.1020
+—0.2399
+3.6426
+3.5475
+eee
+4.4913
+5.9726
+4.3905
+
+shee
+
+ 
+
+2.7409
+12.6396
+5.5523
+24,3995
+
+0.010086
+0.006399
+0.018013
+0.015254
+
+sfslokalok:
+eats
+
+rede.
+
+—0.005534
+—0.000784
+0.004240
+vere
+—0.027208
+seseobk
+seeork
+seit
+seo
+seo
+see
+seiko
+verbo
+—0.029036
+res
+—0.126108
+0.007235
+0.021238
+0.010678
+sear
+0.009884
+0.007596
+0.003268
+0.013815
+0.010576
+sebiork
+0.019101
+—0.003678
+—0.001179
+
+ee
+
+ 
+
+fete
+
+—0.000387
+—0.000207
+0.001540
+0.002487
+
+95.08
+57.89
+122.03
+106.60
+
+elotoick
+sek
+
+dele
+
+82.36
+89.95
+115.80
+
+sek
+
+144.58
+
+afok
+
+135.47
+
+eee
+
+sake
+
+ 
+
+ 
+
+ 
+
+48.905
+15.818
+35.845
+42.684
+
+aod
+oki
+
+seen
+
+—52.231
+—257.608
+
+oe
+okie
+
+—519.853
+
+oR
+—314.643
+sas
+
+eR
+
+lee
+
+epionte
+
+REE
+
+oR HOR
+
+FREE
+
+se
+
+opto
+—447.186
+11.149
+1.890
+ORR
+13.287
+6.107
+—0.193
+86.493
+67.056
+
+soko
+
+skskkeek
+
+72.540
+83.779
+
+Ree
+
+ 
+
+ad
+
+—114.062
+—156.672
+
+12.020
+—241.601
+
+41.648
+11.339
+—3.337
+21,492
+
+eletoiok
+seco
+
+soto
+
+—71.050
+—305.498
+—430.833
+
+seKsioo
+
+—621.412
+
+seek
+—370.493
+pepe
+Hetisk
+ebook
+selobtet
+ki
+
+afer
+
+—1060.325
+—1005.161
+72.339
+—516.282
+—52.241
+—51.390
+se
+—18.575
+—12.464
+—2.098
+59.841
+64.295
+
+afetesedeae
+
+seleklk
+
+23.138
+65.622
+
+seer
+
+sfeeoe
+
+—137.353
+—180.166
+
+15.453
+—283.839
+
+17.413
+
+9.813
+14.296
+16.965
+19.038
+19,996
+
+KES
+soto
+HOR
+eR
+sebIOK
+week
+Foto
+sotoka
+ee
+aera
+sololoto
+eR
+RE
+debe
+EH
+FRI
+seo
+
+21.613
+yetob
+EERE
+
+orto
+
+3.341
+6.416
+7.017
+7.767
+TATL
+
+sekedokes
+sokdok
+
+13.700
+
+seek
+
+cy
+
+ 
+
+6.877
+17,124
+12,262
+
+RRA
+
+4.513
+5.829
+7A9ST
+4.096
+
+lode
+sek
+
+deletes
+
+13.403
+17.748
+
+ORE
+sete
+seek
+seo
+
+3.281
+Sees
+
+skaters
+
+ 
+
+PRE
+
+seh
+4.256
+—5.654
+8.363
+
+foro.
+
+FERRE
+
+Heke
+
+ 
+
+ 
+
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
+
+Lol

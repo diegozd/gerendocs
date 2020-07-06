@@ -1,0 +1,768 @@
+58
+
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+
+CH,,=CH,,-COO-CH) (m, 1, p in 0..3)
+CH, =CH,—CHO (m, # in 0..2)
+CH, =CH,—COOH (m, n in 0..2)
+aC-CH,,—X (a in 1..2) X: Halogen
+aC—CH,,-NH,,, (# in 1..2; # in 0..2)
+aC—CH,,—O- (x in 1..2)
+aC—CH,,—OH (7 in 1..2)
+aC—CH,,-CN (1 in 1..2)
+aC—CH,,-CHO (7 in 1..2)
+aC-CH,,-SH (a in 1..2)
+aC—CH,,-COOH (v in 1..2)
+aC—CH,,-CO- (x in 1..2)
+aC-CH,,-S- (# in 1..2)
+aC-CH,,-OOC-H (x in 1..2)
+aC—CH,,—NO> (a in 1..2)
+aC—CH,,-CONHp (a in 1..2)
+aC-CH,,-OOC ( in 1..2)
+aC-CH,,-COO (a in 1..2)
+aC-SO2-OH
+
+aC—CH(CH3)y
+
+aC-C(CH3)3
+
+aC—CF3
+
+(CH,, =C)(cyclic)-CHO (n in 0..2)
+(CH, =C).y--COO-CH;, (7, m in 0..3)
+(CHy=C)cye-CO- (n in 0..2)
+(CHy =C)eye—CHs (a in 0..2)
+(CH, =C)eye—CH2 (7 in 0.2)
+(CHy =C)eye—CN (1 in 0..2)
+
+(CHy =C)eye—Cl (n in 0..2)
+CHeye—CH3
+
+CH ye-CIIy
+
+Ch,y.-CH
+
+Chege-C
+
+Cheye-CH=CH,, (7 in 1..2)
+Chyy.-C=CH,, (a in 1..2)
+Cheye-Cl
+
+Choye-F
+
+Ch.y.--OH
+
+Choye-NH2
+
+Cheye-NH-CH, (7 in 0..3)
+Choye-N-CH,, (# in 0..3)
+Choyo-SH
+
+Cheye-CN
+
+Chey~-COOH
+
+Chy--CO
+
+Choye-NO2
+
+Choye-S—
+
+Cheye—CHO
+
+Choy~-O-
+
+Ethyl Acrylate (1)
+Propenaldehyde (1)
+
+Acrylic Acid (1)
+
+Benzyl bromide (1)
+
+Benzyl amine (1)
+
+Benzyl ethyl ether (1)
+
+Benzyl alcohol (1)
+
+Benzyl cyanide (1)
+
+Phenyl] acetaldehyde (1)
+Phenyl methanethiol (1)
+Phenyl acetic acid (1)
+
+Pheny! acetone (1)
+
+Benzyl methyl sulfide (1)
+Benzyl formate (1)
+
+Pheny! nitromethane (1)
+Phenyl ethanamide (1)
+
+Benzyl acetate (1)
+
+Methyl phenyl] acetate (1)
+Benzenesulfonic acid (1)
+Cumene (1)
+tert-Butylbenzene (1)
+Perfluorotoluene (1)
+
+Furfural (1)
+
+Methyl furanyrate (1)
+2-Acetylfuran (1)
+1,2-Dimethylcyclopentene (2)
+2-Ethylfuran (1)
+3-Cyanofuran (1)
+2-Chlorofuran (1)
+Methylcyclopentane (1)
+Ethylcyclohexane (1)
+Isopropylcyclopentane (1)
+tert-Butylcyclohexane (1)
+Vinylcyclopentane (1)
+Limonene (1)
+
+Chloro cyclopentane (1)
+Fluoro cyclohexane (1)
+Cyclohexanol (1)
+Cyclohexylamine (1)
+N-methylcyclohexylamine (1)
+N,N-dimethylcyclohexanamine (1)
+Cyclohexanethiol (1)
+Cyanocyclopentance (1)
+Cyclopropanecarboxylie acid (1)
+Methyl cyclohexyl ketone (1)
+Nitrocyclohexane (1)
+
+Methyl cyclopentyl sulfide (1)
+Cyclohexanecarboxaldehyde (1)
+Methoxycyclohexane (1)
+
+ 
+
+0.2117
+—0.7191
+2.4103
+0.8092
+—1.0802
+0.8607
+0.8981
+0.1088
+1.9470
+1.2057
+0.3666
+—0.2363
+0.4506
+
+seo
+
+aloo.
+
+2.2421
+—0.6997
+—0.2636
+—1.1057
+
+0.0642
+
+0.0790
+
+—10.8058
+—1.0516
+—6.9427
+
+0.6572
+
+0.0416
+—0.3151
+
+1.5819
+—0.8604
+—0.1326
+—0.4669
+—0.3548
+—0.1727
+
+0.6817
+—1.0631
+
+0.5124
+
+2.8497
+
+1.3691
+
+1.5069
+
+0.0370
+
+sekobaktie
+
+—0.3312
+se
+—2,0822
+0.7743
+—0.8578
+—0.8638
+0.5076
+—0.3978
+
+—0.0430
+0.1102
+0.0667
+0.4537
+0.2590
+
+—0.0425
+0.1005
+1.0587
+
+—0.0177
+0.1702
+0.1584
+0.3094
+0.1030
+0.2238
+0.5390
+
+—0,2197
+0.0886
+0.0352
+
+REE
+0.0196
+0.0494
+
+—1.5974
+0.4267
+0.0879
+0.6115
+0.0173
+
+—0.0504
+
+—0.2474
+
+—0.5736
+
+—0.1210
+
+—0.0148
+0.1395
+0.1829
+
+—0,1192
+
+—0.0455
+0.2667
+
+—0.1899
+
+—0.3179
+
+—0.3576
+
+—0.7458
+0.1218
+
+—0.0569
+0.4649
+0.1506
+0.1300
+0.6540
+0.0043
+
+—0.2692
+
+—0.2787
+
+ 
+
+—0.0880
+oR
+—1.7762
+2.2630
+1.4069
+0.2698
+—1.0107
+2.4950
+Re
+0.8705
+ORE
+okies
+EES
+1.7860
+Herbed
+RS
+1.1629
+eR
+
+se
+
+0.1565
+0.8016
+Se
+2.4070
+RRS
+
+Ce
+
+—0.2509
+—1.1019
+
+RR
+
+seo
+
+—0.1233
+0.3816
+0.1093
+
+soe
+ek
+
+—0.2832
+seks
+
+eet
+
+0.8973
+—0.9610
+—2.0833
+
+soe
+—0.6447
+REE
+OR
+ORE
+
+seein:
+
+ae
+
+ 
+
+9.000044
+wot
+—0.000763
+
+0.002464
+0.000034
+0.000417
+
+0.002944
+0.000796
+
+seleoiek
+
+9.000183
+
+sc
+se
+suite
+
+0.004195
+
+st
+tne
+0.000384
+sc
+ttre
+—0,001446
+0.006495
+sont
+—0,002650
+een
+
+sok
+
+—0.000624
+0.003921
+
+sok
+
+saledalek:
+
+0.000779
+0.001694
+0.000124
+
+oko
+speck
+
+0.002114
+she
+
+sesetsiet
+
+0.004640
+0.000039
+—0.014535
+
+speedo
+
+—0.000199
+
+Se
+
+ 
+
+a
+
+ 
+
+salokok
+
+ 
+
+salokok
+
+0.21
+eee
+4.36
+—4,88
+2.50
+—749
+—0.25
+—11.01
+ees
+2.00
+eto
+sees
+Hecke
+—3.40
+setae
+ees
+~7.02
+ieee
+
+seer
+
+—2.04
+
+—5.70
+seth
+
+0.39
+oki
+
+seek
+
+0.03
+—4.43
+
+sober
+
+seek
+
+2.79
+—2.95
+6.19
+
+rok
+weet
+
+—16.97
+secs
+
+edo
+
+—7.73
+—2.50
+—51.50
+Jobo
+—2.00
+RE
+sob
+eH
+HR
+soto
+see
+
+soled
+
+—12.085
+voce
+10.194
+—8.081
+~2.044
+6.043
+wi
+25.157
+oeek
+16.725
+soc
+sot
+ste
+3.020
+so
+sot
+1,556
+—
+
+sokaeie
+
+1.238
+0.354
+okie
+—6.438
+oko
+
+sokioiek
+
+28.972
+—22,533
+
+sokioiok
+
+soled
+
+4.178
+5.332
+6.084
+
+rokicke
+saeco
+6.768
+sab
+
+serkodoe
+
+—3.024
+2.046
+—11.965
+eb et
+—16.723
+SHR
+
+eb H
+SoHE
+see
+seobset
+see
+
+salodoek
+
+—12.509
+seek
+9.090
+—8.570
+—3.447
+5.486
+
+saofaet:
+
+16.950
+
+eH
+7.568
+Fobioka
+sesokoe
+ses
+4.145
+doborie
+sees
+4.066
+somo
+
+sokoka
+
+—{).751
+—0.192
+sektobk
+—12.517
+fokoke
+
+sokyeke
+
+24.560
+—12.044
+
+yokok
+
+yeledokek
+
+4.452
+4.428
+—4.128
+
+sokioke
+seer
+10.390
+see
+
+sflodokoie
+
+—8.050
+3.446
+14.531
+somo
+—7.569
+eR
+somo
+JERR
+se
+somo
+JeRERE
+
+ado
+
+se
+yerno
+yee
+ee
+4.608
+yee
+ROH
+sero
+yemebk
+RH
+ern
+sorte
+sees
+sen
+yornlors
+sere.
+seach
+yomtob
+senior
+1.030
+seo
+sek
+seo
+SERIO
+sek
+seo
+SeRIOE
+
+spose
+
+exoiokok:
+
+0.096
+—0.428
+0.153
+
+yeatokak:
+
+ 
+
+ 
+
+2.134
+—4.607
+
+bobo
+
+ 
+
+ 
+
+ 
+
+—0.014
+
+ORO
+
+1.291
+settee
+—0.639
+0.969
+—2.754
+
+ORO
+
+week
+
+0.890
+—4.086
+
+peek
+eke
+spose
+shirk
+seobk
+he
+seo
+
+pone
+
+—0.270
+—0.878
+Hoek
+—1.670
+seek
+
+Rokk
+
+2.235
+0.961
+
+eaoeick
+somone
+0.033
+—1.137
+2.421
+
+aio.
+Roo
+
+seek
+
+eee
+
+ 
+
+0.328
+0.402
+eR
+—0.878
+RK
+RIOR
+weeleck
+tek
+
+steal.
+
+ 
+
+soloksiak:
+
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
+
+661

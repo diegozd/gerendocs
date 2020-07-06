@@ -27,9 +27,9 @@ for arqpdf in pdfsList:
     filenametxt = filenamepdf[0:fim] + '.txt'
 
     if filenametxt in txtList:
-        print(n, '/', len(pdfsList), ' ', filenametxt, ' arquivo ja existente')
+        print(n+1, '/', len(pdfsList), ' ', filenametxt, ' arquivo ja existente')
     else:
-        print(n, '/', len(pdfsList), 'convertendo ', arqpdf)
+        print(n+1, '/', len(pdfsList), 'convertendo ', arqpdf)
         pdf = wi(filename = end_filespfds + '/' + filenamepdf, resolution= 300)
         pdfImage = pdf.convert('jpeg')
 

@@ -1,0 +1,66 @@
+Table 7
+Second-order groups and their contributions along with sample assignments
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Group Example Tino Tyaj Te; Poy Veoj Gp; Ap; Hay Aiys2j
+1 (CH3)2CH 2-Methylpentane (1) 0.1175  —0.0035 —0.0471 0.000473 LL —0.418 —0.419 —0.399 0.396
+2 (CH3)3C 2,2,4,4-Tetramethylpentane (2) —0.1214 0.0072 —0.1778 0.000340 3.14 —2.776 —1.967 —0417 0.554
+3 CH(CH3)CH(CH3) 2,3,4-Trimethylpentane (2) 0.2390 0.3160 0.5602 —0.003207 —3.75 6.996 6.065 0.532 —1.766
+4 CTI(CII3)C(CH3 )2 2,2,3,4,4-Pentamethylpentane (2) —0.3276 0.3976 0.8994 —0.008733 —10.06 8.938 8.078 0.623 0.351
+5 C(CH3)2C(CH3)2 2,2,3,3,4,4-Hexamethylpentane (2) 3.3297 0.4487 1.5535 —0.016852 —8.70 10.735 10.535 5.086 —1.089
+6 CH, =CH,,-CH, =CH, (&, m,n, pin 0.2) — 1,3-Buladiene (1) 0.7451 0.1097 0.4214 0.000792 —7.88 —6.562  —11.786 1.632 1.408
+7 CH3-CH,, =CH,, (m, 1 in 0..2) 2-Mcthyl-2-butene (3) 0.0524 0.0369 —0.0172 —0.000101 0.50 —0.120 —0.048 0.064 0.070
+8 CH2-CH,, =CH, (m, n in 0..2) 1,4-Pentadiene (2) —0.1077 —0.0537 0.0262 0.000815 0.14 1.006 449 —0.060 —0.632
+9 CH,-CH,, =CH,, (m, 1 in 0..2; p in 0..1) 3-Methyl-1-butene (1) —0.2485  —0.0093 —0.1526 -—0,000163 —2.67 3.857 3.964 0.004 —0.368
+10 CHCHO or CCHO 2-Mcthylbutyraldchyde (1) 0.5715  —0.1286 —1.0434 0.005789 10.36 —0.525 514  —0.550 —0.369
+11 CH3COCH2 2-Pentanone (1) —0.0968 —0.0215 —0.0338 —0.000111 —4.08 —1.543 0.033 —0.403 0.105
+12 CH3COCH or CH3COC 3-Methyl-2-pentanone (1) —0.6024 —0.0803 —0.3058 —0,001892 3.02 2.202 4,994 0.723 1.005
+13 CHCOOH or CCOOH 2-Mcthyl bulanoic acid (1) —3.1734 —0.3203 —4.7275 0.006916 10.56 3.920 121 7422 5.475
+14 CH3COOCH or CH3COOC Isopropyl acetate (1) 0.2114 —0.2066 —0.5537 —0.000569 4.28 —11.779 —12.295  —1.871 1.208
+15 CO-0-CO Propanoic anhydride (1) —1.2441 —0.0500 —0.3576 0.001812 2.98 —16.075 —14.140 Hee —2.666
+16 CHOH 2-Butanol (1) —0.3489  —0.2825 —0.6768 0.000246 3.04 5.614 4.422 0.206 0.599
+17 COH 2-Methyl-2-butanol (1) 0.3695 —0.5325 —1,5224 0.003224 13.98 —25.382 —25.929 —1.579 —0,459
+18 CH3COCH,, OH (x in 0..2) 3-Hydroxy-2-butanone (1) 0.9886 —0.2987 —0.3940 —0.002912 5.17 6.621 8.244 TAPE epee
+19 NCCHOH or NCCOH 2-Hydroxypropionitrile (1) —1.1810 0.2981 0.3414 —0.000516 0.68 4.833 0.000 al —0.149
+20 OK-CH,-COO (n in 0..2) Ethyl lactate (1) 0.1526 —0.2310 se vt sont soe waa es sev
+21 CH», (OH)CH,,(OH) (m,n in 0..2) Ethylene glycol (1) —0.0414 0.8854 1.9395 —-—0.004712 7.54 —1.051 —0.592 —6.611 —0.306
+22 CH (OH)CH,,(-) (m, 7, p in 0..2) 2-Amino-1-butanol (1) —0.5941 0.5082, 1.2342 0.002581 5.58 —1.506 —0.959 eR —0.041
+23. CH,,(NH3)CH,(NH3) (m, 1 in 0..2) Ethylenediamine (1) 0.3258 —0.0064  —3.3555 0.000726 20.82 0344 1443 2.384 1.575
+24 CH», (NH)CH,,(NH2) (mm, # in 1..2) Diethylenetriamine (1) —1.8403 0.2318 —1.1598 0.000157 —26.31 3.848 3.608 ESELE SEES
+25 H2NCOCH,, CH», CONH2 (m, n in 1..2) Butanediamide (1) 11.5351 eis eee shore Seer Me sob Meee Mees
+26 CH,,(NH,,)-COOH (m, n in 0.2) 1-Alanine (1) 12.3481 = 62.4740 0.002696 ‘17.78 314s 6598 7.032
+27 HOOC-CH,,-COOH (a in 1..2) Malonic acid (1) 0.9327 —0.1222 1.9595 —0.001479 12.46 —5.217 —6.058 eee 4.264
+28 HOOC-CH,,—CH,, COOH (n, m in 1..2) Succinic acid (1) 7.5057 SERS 0.7686 0.000090, 15.17 —4,281 —6.929 Eee 29.245
+29 HO-CH,-COOH (a in 1..2) 2-Hydroxyisobutyric acid (1) 0.4531 —0.4625 se * sone ees soe tees
+30 NH)—-CH,—-CH,)—-COOH (1, m in 1..2) B-Alanine (1) 1415938 vena sek eines fren wine
+31 CH3-O-CH,,-COOH (# in 1..2) Methoxyacetic acid (1) —2.3026 0.9198 0.4750 —0.001445 791 —2.678 —1.727 EP meet
+32 HS-CH-COOH 2-Mercaptopropionic acid (1) —2,1535 were wee vee rb weve veo vee Het
+33 HS-CH,,-CH,,-COOH (x, m in 1..2) 6-Thiolactic acid (1) —2.7514 CAPES —0.2697 0.000655 20.43 —7.376 7.292 SEE —3.623
+34 NC-CH,,—CH,,—CN (a, m in 1..2) 1,2-Dicyanoethane (1) 4.0747 1.8957 1.9699 0.002330 24.82 18.974 5.661 seb —8.038
+35 OH-CH,,-—CH,,-CN (#, 71 in 1..2) 3-Hydroxypropanenitrile (1) —().9493 1.3434 0.2311 = —0.001022 14.54 0.558 —3.906 HORERE —4.371
+36 HS—CH,,-CH,,-SH (#, m in 1..2) 1,2-Ethanedithiol (1) 0.2232 0.1815 DAT 0.001321 —10.31 6.728 0.794  —0.683 —0.931
+37 COO-CH,,-CH,,-OOC (a, m in 1..2) Ethylene glycol diacetate (1) —0.5946 0.3401 1.5418 -—0,.003385 —2.33 1.306 4.025 1.203 EEE
+38 OOC-CH,,-CH,, -COO (n, m in 1..2) Dimethylsuccinate (1) 2.5962 0.5794 ee see ee al “obs ial 2.303
+39 NC-CH,,—-CO0 (x in 1,.2) Methylcyanoacetate (1) —0.2509 1.2171 2.7051 —0,001999 —0.73 BEES SEAS SERS 1.100
+40 COCH, COO (n in 1..2) Methylacetoacetate (1) 0.6304 0.2427 0.7502 —0.000231 1.69 10.556 —7.261 wees ays
+Al CH»—O-CH, =CHy (m, n, p in 0..3) Ethyl viny ether (1) —0.0811 0.1399 0.2900 —0.000432 —4.54 —10.098 —9.411 0.372 3.169
+42 CH,, =CH,,—-F (m, a in 0..2) 1-Fluoro-1-propene (1) —0.2568 0.0591 eat PERSE Pet meter Sat Set 2.823
+43 CH), =CH,,—Br (m, n in 0..2) 1-Bromo-1-propene (1) —0.4329 —0.3192 epee —0.010021 2.63 14.470 17.014 wees 2.212.
+44 CH, =CH,-I (m, n in 0.2) 1-Iodo-1-propene (1) ARR —0.3486 ook ook ve SRS seas kes vere Ses see
+45 CH, =CH,,-Cl (m, 1 in 0..2) 1-Chloro-2-methylpropene (1) 0.0446 —0.0268 —0.0188 0.000152 2.80 8.207 9.715 al —0.480
+46 CII, =CII,-CN (mm, # in 0..2) Acrylonitrile (1) 0.1027 0.0653 —1.1249 0.000893 3.82 —8.304 —16.903 SSPE —0.405
+
+861
+
+807-€81 (1007) P8I-E8I Dlequinby aspyg pInjy /1uDD “y ‘OLaLDY
