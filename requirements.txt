@@ -1,0 +1,6 @@
+requests        -> conda install -c conda-forge requests
+tesseract       -> conda install -c conda-forge tesseract 
+pillow          -> conda install -c conda-forge pillow 
+pytesseract     -> conda install -c conda-forge pytesseract 
+imagemagick     -> conda install -c conda-forge imagemagick 
+wand            -> conda install -c conda-forge wand 
